@@ -137,7 +137,7 @@
     var slot = el('div', 'slot'); cur.slot = slot; wrap.appendChild(slot);
     // column header (wide screens)
     var head = el('div', 'cells head ' + g.key, { 'aria-hidden': 'true' }, [el('span')]);
-    g.cols.forEach(function (c) { head.appendChild(el('span', 'hc', { title: c.label }, [fit(I.ui(c.icon, { scale: 1 }))])); });
+    g.cols.forEach(function (c) { head.appendChild(el('span', 'hc', { title: c.label }, [fit(I.ui(c.icon, { scale: 1 })), el('span', 'ht', null, [c.short || c.label.toUpperCase()])])); });
     wrap.appendChild(head);
     var rows = el('div', 'rows', { 'aria-label': 'Guesses' }); cur.rowsEl = rows; wrap.appendChild(rows);
     $view.appendChild(wrap);
@@ -166,7 +166,7 @@
     d.style.setProperty('--i', i + 1);
     var mk = t.s === 'g' ? 'check' : t.s === 'y' ? 'tilde' : 'cross';
     d.appendChild(el('span', 'mk', null, [fit(I.ui(mk, { scale: 1, pal: { w: t.s === 'y' ? '#0e0b14' : '#f5ebcf' } }))]));
-    d.appendChild(el('span', 'lab', null, [fit(I.ui(col.icon, { scale: 1 }))]));
+    d.appendChild(el('span', 'lab', null, [fit(I.ui(col.icon, { scale: 1 })), el('span', 'lt', null, [col.short || col.label.toUpperCase()])]));
     d.appendChild(renderView(t.view));
     if (t.d) d.appendChild(el('span', 'ar', null, [fit(I.ui(t.d > 0 ? 'up' : 'down', { scale: 1, pal: { w: t.s === 'y' ? '#0e0b14' : '#f5ebcf' } }))]));
     return d;

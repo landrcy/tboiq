@@ -35,8 +35,8 @@
     return v.toUpperCase();
   }
   var itemCols = [
-    { id: 'type', icon: 'blob', label: 'Type' }, { id: 'q', icon: 'star', label: 'Quality' }, { id: 'pools', icon: 'chest', label: 'Pools' },
-    { id: 'dlc', icon: 'disc', label: 'Version' }, { id: 'rc', icon: 'bolt', label: 'Recharge' }, { id: 'id', icon: 'hash', label: 'ID' }
+    { id: 'type', icon: 'blob', label: 'Type', short: 'TYPE' }, { id: 'q', icon: 'star', label: 'Quality', short: 'QUALITY' }, { id: 'pools', icon: 'chest', label: 'Pools', short: 'POOL' },
+    { id: 'dlc', icon: 'disc', label: 'Version', short: 'DLC' }, { id: 'rc', icon: 'bolt', label: 'Recharge', short: 'RECHARGE' }, { id: 'id', icon: 'hash', label: 'ID', short: 'ID' }
   ];
   function compareItem(g, a) {
     var t = [], s, r;
@@ -76,9 +76,9 @@
   var POCKET_ICON = { bomb: { n: 'bomb' }, key: { n: 'key' }, coin: { n: 'coin' }, pill: { n: 'pill' }, card: { n: 'card' }, charge: { n: 'bolt', pal: { y: '#74a3c8' } }, random: { n: 'help', pal: { w: '#8d7bc0' } } };
   var UNLOCK_ICON = { default: 'star', boss: 'skull', collect: 'coin', feat: 'trophy', secret: 'help', donate: 'slot', closet: 'door' };
   var charCols = [
-    { id: 'mode', icon: 'char', label: 'Tainted' }, { id: 'unlock', icon: 'door', label: 'Unlock' }, { id: 'hearts', icon: 'heart', label: 'Hearts' },
-    { id: 'hp', icon: 'plus', label: 'Health' }, { id: 'items', icon: 'item', label: 'Items' }, { id: 'pocket', icon: 'bomb', label: 'Pocket' },
-    { id: 'flight', icon: 'wings', label: 'Flight' }, { id: 'dlc', icon: 'disc', label: 'Version' }, { id: 'id', icon: 'hash', label: 'ID' }
+    { id: 'mode', icon: 'char', label: 'Tainted', short: 'TYPE' }, { id: 'unlock', icon: 'door', label: 'Unlock', short: 'UNLOCK' }, { id: 'hearts', icon: 'heart', label: 'Hearts', short: 'HEARTS' },
+    { id: 'hp', icon: 'plus', label: 'Health', short: 'HP' }, { id: 'items', icon: 'item', label: 'Items', short: 'ITEMS' }, { id: 'pocket', icon: 'bomb', label: 'Pocket', short: 'POCKET' },
+    { id: 'flight', icon: 'wings', label: 'Flight', short: 'FLIGHT' }, { id: 'dlc', icon: 'disc', label: 'Version', short: 'DLC' }, { id: 'id', icon: 'hash', label: 'ID', short: 'ID' }
   ];
   function compareChar(g, a) {
     var t = [], s, r;
