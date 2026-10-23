@@ -1,0 +1,3782 @@
+{
+ "c1": {
+  "file": "assets/sprites/items/c1.png",
+  "wikiFile": "Collectible_The Sad Onion_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Sad_Onion",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c2": {
+  "file": "assets/sprites/items/c2.png",
+  "wikiFile": "Collectible_The Inner Eye_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Inner_Eye",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c3": {
+  "file": "assets/sprites/items/c3.png",
+  "wikiFile": "Collectible_Spoon Bender_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Spoon_Bender",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c4": {
+  "file": "assets/sprites/items/c4.png",
+  "wikiFile": "Collectible_Cricket's Head_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Cricket's_Head",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c5": {
+  "file": "assets/sprites/items/c5.png",
+  "wikiFile": "Collectible_My Reflection_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/My_Reflection",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c6": {
+  "file": "assets/sprites/items/c6.png",
+  "wikiFile": "Collectible_Number One_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Number_One",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c7": {
+  "file": "assets/sprites/items/c7.png",
+  "wikiFile": "Collectible_Blood of the Martyr_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Blood_of_the_Martyr",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c8": {
+  "file": "assets/sprites/items/c8.png",
+  "wikiFile": "Collectible_Brother Bobby_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Brother_Bobby",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c9": {
+  "file": "assets/sprites/items/c9.png",
+  "wikiFile": "Collectible_Skatole_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Skatole",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c10": {
+  "file": "assets/sprites/items/c10.png",
+  "wikiFile": "Collectible_Halo of Flies_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Halo_of_Flies",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c11": {
+  "file": "assets/sprites/items/c11.png",
+  "wikiFile": "Collectible_1up!_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/1up!",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c12": {
+  "file": "assets/sprites/items/c12.png",
+  "wikiFile": "Collectible_Magic Mushroom_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Magic_Mushroom",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c14": {
+  "file": "assets/sprites/items/c14.png",
+  "wikiFile": "Collectible_Roid Rage_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Roid_Rage",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c16": {
+  "file": "assets/sprites/items/c16.png",
+  "wikiFile": "Collectible_Raw Liver_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Raw_Liver",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c17": {
+  "file": "assets/sprites/items/c17.png",
+  "wikiFile": "Collectible_Skeleton Key_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Skeleton_Key",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c20": {
+  "file": "assets/sprites/items/c20.png",
+  "wikiFile": "Collectible_Transcendence_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Transcendence",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c21": {
+  "file": "assets/sprites/items/c21.png",
+  "wikiFile": "Collectible_The Compass_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Compass",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c22": {
+  "file": "assets/sprites/items/c22.png",
+  "wikiFile": "Collectible_Lunch_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lunch",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c23": {
+  "file": "assets/sprites/items/c23.png",
+  "wikiFile": "Collectible_Dinner_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dinner",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c24": {
+  "file": "assets/sprites/items/c24.png",
+  "wikiFile": "Collectible_Dessert_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dessert",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c25": {
+  "file": "assets/sprites/items/c25.png",
+  "wikiFile": "Collectible_Breakfast_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Breakfast",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c26": {
+  "file": "assets/sprites/items/c26.png",
+  "wikiFile": "Collectible_Rotten Meat_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Rotten_Meat",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c27": {
+  "file": "assets/sprites/items/c27.png",
+  "wikiFile": "Collectible_Wooden Spoon_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Wooden_Spoon",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c28": {
+  "file": "assets/sprites/items/c28.png",
+  "wikiFile": "Collectible_The Belt_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Belt",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c29": {
+  "file": "assets/sprites/items/c29.png",
+  "wikiFile": "Collectible_Mom's Underwear_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Underwear",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c30": {
+  "file": "assets/sprites/items/c30.png",
+  "wikiFile": "Collectible_Mom's Heels_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Heels",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c31": {
+  "file": "assets/sprites/items/c31.png",
+  "wikiFile": "Collectible_Mom's Lipstick_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Lipstick",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c32": {
+  "file": "assets/sprites/items/c32.png",
+  "wikiFile": "Collectible_Wire Coat Hanger_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Wire_Coat_Hanger",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c33": {
+  "file": "assets/sprites/items/c33.png",
+  "wikiFile": "Collectible_The Bible_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Bible",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c34": {
+  "file": "assets/sprites/items/c34.png",
+  "wikiFile": "Collectible_The Book of Belial_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Book_of_Belial",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c35": {
+  "file": "assets/sprites/items/c35.png",
+  "wikiFile": "Collectible_The Necronomicon_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Necronomicon",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c36": {
+  "file": "assets/sprites/items/c36.png",
+  "wikiFile": "Collectible_The Poop_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Poop",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c37": {
+  "file": "assets/sprites/items/c37.png",
+  "wikiFile": "Collectible_Mr. Boom_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mr._Boom",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c38": {
+  "file": "assets/sprites/items/c38.png",
+  "wikiFile": "Collectible_Tammy's Head_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tammy's_Head",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c39": {
+  "file": "assets/sprites/items/c39.png",
+  "wikiFile": "Collectible_Mom's Bra_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Bra",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c42": {
+  "file": "assets/sprites/items/c42.png",
+  "wikiFile": "Collectible_Bob's Rotten Head_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Bob's_Rotten_Head",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c44": {
+  "file": "assets/sprites/items/c44.png",
+  "wikiFile": "Collectible_Teleport!_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Teleport!",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c45": {
+  "file": "assets/sprites/items/c45.png",
+  "wikiFile": "Collectible_Yum Heart_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Yum_Heart",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c46": {
+  "file": "assets/sprites/items/c46.png",
+  "wikiFile": "Collectible_Lucky Foot_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lucky_Foot",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c47": {
+  "file": "assets/sprites/items/c47.png",
+  "wikiFile": "Collectible_Doctor's Remote_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Doctor's_Remote",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c49": {
+  "file": "assets/sprites/items/c49.png",
+  "wikiFile": "Collectible_Shoop da Whoop!_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Shoop_da_Whoop!",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c51": {
+  "file": "assets/sprites/items/c51.png",
+  "wikiFile": "Collectible_Pentagram_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Pentagram",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c52": {
+  "file": "assets/sprites/items/c52.png",
+  "wikiFile": "Collectible_Dr. Fetus_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dr._Fetus",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c53": {
+  "file": "assets/sprites/items/c53.png",
+  "wikiFile": "Collectible_Magneto_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Magneto",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c56": {
+  "file": "assets/sprites/items/c56.png",
+  "wikiFile": "Collectible_Lemon Mishap_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lemon_Mishap",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c57": {
+  "file": "assets/sprites/items/c57.png",
+  "wikiFile": "Collectible_Distant Admiration_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Distant_Admiration",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c58": {
+  "file": "assets/sprites/items/c58.png",
+  "wikiFile": "Collectible_Book of Shadows_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Book_of_Shadows",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c65": {
+  "file": "assets/sprites/items/c65.png",
+  "wikiFile": "Collectible_Anarchist Cookbook_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Anarchist_Cookbook",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c66": {
+  "file": "assets/sprites/items/c66.png",
+  "wikiFile": "Collectible_The Hourglass_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Hourglass",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c67": {
+  "file": "assets/sprites/items/c67.png",
+  "wikiFile": "Collectible_Sister Maggy_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sister_Maggy",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c68": {
+  "file": "assets/sprites/items/c68.png",
+  "wikiFile": "Collectible_Technology_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Technology",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c69": {
+  "file": "assets/sprites/items/c69.png",
+  "wikiFile": "Collectible_Chocolate Milk_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Chocolate_Milk",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c72": {
+  "file": "assets/sprites/items/c72.png",
+  "wikiFile": "Collectible_Rosary_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Rosary",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c77": {
+  "file": "assets/sprites/items/c77.png",
+  "wikiFile": "Collectible_My Little Unicorn_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/My_Little_Unicorn",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c78": {
+  "file": "assets/sprites/items/c78.png",
+  "wikiFile": "Collectible_Book of Revelations_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Book_of_Revelations",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c79": {
+  "file": "assets/sprites/items/c79.png",
+  "wikiFile": "Collectible_The Mark_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Mark",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c80": {
+  "file": "assets/sprites/items/c80.png",
+  "wikiFile": "Collectible_The Pact_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Pact",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c81": {
+  "file": "assets/sprites/items/c81.png",
+  "wikiFile": "Collectible_Dead Cat_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dead_Cat",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c82": {
+  "file": "assets/sprites/items/c82.png",
+  "wikiFile": "Collectible_Lord of the Pit_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lord_of_the_Pit",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c83": {
+  "file": "assets/sprites/items/c83.png",
+  "wikiFile": "Collectible_The Nail_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Nail",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c84": {
+  "file": "assets/sprites/items/c84.png",
+  "wikiFile": "Collectible_We Need To Go Deeper!_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/We_Need_To_Go_Deeper!",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c85": {
+  "file": "assets/sprites/items/c85.png",
+  "wikiFile": "Collectible_Deck of Cards_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Deck_of_Cards",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c86": {
+  "file": "assets/sprites/items/c86.png",
+  "wikiFile": "Collectible_Monstro's Tooth_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Monstro's_Tooth",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c92": {
+  "file": "assets/sprites/items/c92.png",
+  "wikiFile": "Collectible_Super Bandage_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Super_Bandage",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c93": {
+  "file": "assets/sprites/items/c93.png",
+  "wikiFile": "Collectible_The Gamekid_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Gamekid",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c94": {
+  "file": "assets/sprites/items/c94.png",
+  "wikiFile": "Collectible_Sack of Pennies_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sack_of_Pennies",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c96": {
+  "file": "assets/sprites/items/c96.png",
+  "wikiFile": "Collectible_Little C.H.A.D._icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Little_C.H.A.D.",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c97": {
+  "file": "assets/sprites/items/c97.png",
+  "wikiFile": "Collectible_The Book of Sin_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Book_of_Sin",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c102": {
+  "file": "assets/sprites/items/c102.png",
+  "wikiFile": "Collectible_Mom's Bottle of Pills_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Bottle_of_Pills",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c105": {
+  "file": "assets/sprites/items/c105.png",
+  "wikiFile": "Collectible_The D6_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_D6",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c107": {
+  "file": "assets/sprites/items/c107.png",
+  "wikiFile": "Collectible_The Pinking Shears_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Pinking_Shears",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c108": {
+  "file": "assets/sprites/items/c108.png",
+  "wikiFile": "Collectible_The Wafer_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Wafer",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c110": {
+  "file": "assets/sprites/items/c110.png",
+  "wikiFile": "Collectible_Mom's Contacts_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Contacts",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c111": {
+  "file": "assets/sprites/items/c111.png",
+  "wikiFile": "Collectible_The Bean_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Bean",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c112": {
+  "file": "assets/sprites/items/c112.png",
+  "wikiFile": "Collectible_Guardian Angel_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Guardian_Angel",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c113": {
+  "file": "assets/sprites/items/c113.png",
+  "wikiFile": "Collectible_Demon Baby_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Demon_Baby",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c114": {
+  "file": "assets/sprites/items/c114.png",
+  "wikiFile": "Collectible_Mom's Knife_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Knife",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c115": {
+  "file": "assets/sprites/items/c115.png",
+  "wikiFile": "Collectible_Ouija Board_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Ouija_Board",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c116": {
+  "file": "assets/sprites/items/c116.png",
+  "wikiFile": "Collectible_9 Volt_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/9_Volt",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c117": {
+  "file": "assets/sprites/items/c117.png",
+  "wikiFile": "Collectible_Dead Bird_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dead_Bird",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c118": {
+  "file": "assets/sprites/items/c118.png",
+  "wikiFile": "Collectible_Brimstone_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Brimstone",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c123": {
+  "file": "assets/sprites/items/c123.png",
+  "wikiFile": "Collectible_Monster Manual_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Monster_Manual",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c124": {
+  "file": "assets/sprites/items/c124.png",
+  "wikiFile": "Collectible_Dead Sea Scrolls_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dead_Sea_Scrolls",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c127": {
+  "file": "assets/sprites/items/c127.png",
+  "wikiFile": "Collectible_Forget Me Now_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Forget_Me_Now",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c128": {
+  "file": "assets/sprites/items/c128.png",
+  "wikiFile": "Collectible_Forever Alone_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Forever_Alone",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c132": {
+  "file": "assets/sprites/items/c132.png",
+  "wikiFile": "Collectible_A Lump of Coal_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/A_Lump_of_Coal",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c133": {
+  "file": "assets/sprites/items/c133.png",
+  "wikiFile": "Collectible_Guppy's Paw_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Guppy's_Paw",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c134": {
+  "file": "assets/sprites/items/c134.png",
+  "wikiFile": "Collectible_Guppy's Tail_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Guppy's_Tail",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c136": {
+  "file": "assets/sprites/items/c136.png",
+  "wikiFile": "Collectible_Best Friend_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Best_Friend",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c139": {
+  "file": "assets/sprites/items/c139.png",
+  "wikiFile": "Collectible_Mom's Purse_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Purse",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c144": {
+  "file": "assets/sprites/items/c144.png",
+  "wikiFile": "Collectible_Bum Friend_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Bum_Friend",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c145": {
+  "file": "assets/sprites/items/c145.png",
+  "wikiFile": "Collectible_Guppy's Head_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Guppy's_Head",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c147": {
+  "file": "assets/sprites/items/c147.png",
+  "wikiFile": "Collectible_Notched Axe_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Notched_Axe",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c149": {
+  "file": "assets/sprites/items/c149.png",
+  "wikiFile": "Collectible_Ipecac_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Ipecac",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c153": {
+  "file": "assets/sprites/items/c153.png",
+  "wikiFile": "Collectible_Mutant Spider_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mutant_Spider",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c158": {
+  "file": "assets/sprites/items/c158.png",
+  "wikiFile": "Collectible_Crystal Ball_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Crystal_Ball",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c159": {
+  "file": "assets/sprites/items/c159.png",
+  "wikiFile": "Collectible_Spirit of the Night_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Spirit_of_the_Night",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c164": {
+  "file": "assets/sprites/items/c164.png",
+  "wikiFile": "Collectible_The Candle_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Candle",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c165": {
+  "file": "assets/sprites/items/c165.png",
+  "wikiFile": "Collectible_Cat-o-nine-tails_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Cat-o-nine-tails",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c166": {
+  "file": "assets/sprites/items/c166.png",
+  "wikiFile": "Collectible_D20_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/D20",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c167": {
+  "file": "assets/sprites/items/c167.png",
+  "wikiFile": "Collectible_Harlequin Baby_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Harlequin_Baby",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c168": {
+  "file": "assets/sprites/items/c168.png",
+  "wikiFile": "Collectible_Epic Fetus_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Epic_Fetus",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c169": {
+  "file": "assets/sprites/items/c169.png",
+  "wikiFile": "Collectible_Polyphemus_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Polyphemus",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c170": {
+  "file": "assets/sprites/items/c170.png",
+  "wikiFile": "Collectible_Daddy Longlegs_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Daddy_Longlegs",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c171": {
+  "file": "assets/sprites/items/c171.png",
+  "wikiFile": "Collectible_Spider Butt_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Spider_Butt",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c172": {
+  "file": "assets/sprites/items/c172.png",
+  "wikiFile": "Collectible_Sacrificial Dagger_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sacrificial_Dagger",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c174": {
+  "file": "assets/sprites/items/c174.png",
+  "wikiFile": "Collectible_Rainbow Baby_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Rainbow_Baby",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c179": {
+  "file": "assets/sprites/items/c179.png",
+  "wikiFile": "Collectible_Fate_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Fate",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c181": {
+  "file": "assets/sprites/items/c181.png",
+  "wikiFile": "Collectible_White Pony_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/White_Pony",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c182": {
+  "file": "assets/sprites/items/c182.png",
+  "wikiFile": "Collectible_Sacred Heart_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sacred_Heart",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c184": {
+  "file": "assets/sprites/items/c184.png",
+  "wikiFile": "Collectible_Holy Grail_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Holy_Grail",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c187": {
+  "file": "assets/sprites/items/c187.png",
+  "wikiFile": "Collectible_Guppy's Hairball_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Guppy's_Hairball",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c188": {
+  "file": "assets/sprites/items/c188.png",
+  "wikiFile": "Collectible_Abel_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Abel",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c191": {
+  "file": "assets/sprites/items/c191.png",
+  "wikiFile": "Collectible_3 Dollar Bill_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/3_Dollar_Bill",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c192": {
+  "file": "assets/sprites/items/c192.png",
+  "wikiFile": "Collectible_Telepathy For Dummies_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Telepathy_For_Dummies",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c202": {
+  "file": "assets/sprites/items/c202.png",
+  "wikiFile": "Collectible_Midas' Touch_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Midas'_Touch",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c205": {
+  "file": "assets/sprites/items/c205.png",
+  "wikiFile": "Collectible_Sharp Plug_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sharp_Plug",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c210": {
+  "file": "assets/sprites/items/c210.png",
+  "wikiFile": "Collectible_Gnawed Leaf_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Gnawed_Leaf",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c212": {
+  "file": "assets/sprites/items/c212.png",
+  "wikiFile": "Collectible_Guppy's Collar_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Guppy's_Collar",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c217": {
+  "file": "assets/sprites/items/c217.png",
+  "wikiFile": "Collectible_Mom's Wig_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Wig",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c221": {
+  "file": "assets/sprites/items/c221.png",
+  "wikiFile": "Collectible_Rubber Cement_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Rubber_Cement",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c223": {
+  "file": "assets/sprites/items/c223.png",
+  "wikiFile": "Collectible_Pyromaniac_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Pyromaniac",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c224": {
+  "file": "assets/sprites/items/c224.png",
+  "wikiFile": "Collectible_Cricket's Body_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Cricket's_Body",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c225": {
+  "file": "assets/sprites/items/c225.png",
+  "wikiFile": "Collectible_Gimpy_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Gimpy",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c227": {
+  "file": "assets/sprites/items/c227.png",
+  "wikiFile": "Collectible_Piggy Bank_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Piggy_Bank",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c228": {
+  "file": "assets/sprites/items/c228.png",
+  "wikiFile": "Collectible_Mom's Perfume_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Perfume",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c230": {
+  "file": "assets/sprites/items/c230.png",
+  "wikiFile": "Collectible_Abaddon_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Abaddon",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c232": {
+  "file": "assets/sprites/items/c232.png",
+  "wikiFile": "Collectible_Stop Watch_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Stop_Watch",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c240": {
+  "file": "assets/sprites/items/c240.png",
+  "wikiFile": "Collectible_Experimental Treatment_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Experimental_Treatment",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c248": {
+  "file": "assets/sprites/items/c248.png",
+  "wikiFile": "Collectible_Hive Mind_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Hive_Mind",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c257": {
+  "file": "assets/sprites/items/c257.png",
+  "wikiFile": "Collectible_Fire Mind_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Fire_Mind",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c259": {
+  "file": "assets/sprites/items/c259.png",
+  "wikiFile": "Collectible_Dark Matter_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dark_Matter",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c261": {
+  "file": "assets/sprites/items/c261.png",
+  "wikiFile": "Collectible_Proptosis_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Proptosis",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c269": {
+  "file": "assets/sprites/items/c269.png",
+  "wikiFile": "Collectible_Headless Baby_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Headless_Baby",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c273": {
+  "file": "assets/sprites/items/c273.png",
+  "wikiFile": "Collectible_Bob's Brain_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Bob's_Brain",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c275": {
+  "file": "assets/sprites/items/c275.png",
+  "wikiFile": "Collectible_Lil Brimstone_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lil_Brimstone",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c276": {
+  "file": "assets/sprites/items/c276.png",
+  "wikiFile": "Collectible_Isaac's Heart_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Isaac's_Heart",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c277": {
+  "file": "assets/sprites/items/c277.png",
+  "wikiFile": "Collectible_Lil Haunt_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lil_Haunt",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c278": {
+  "file": "assets/sprites/items/c278.png",
+  "wikiFile": "Collectible_Dark Bum_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dark_Bum",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c282": {
+  "file": "assets/sprites/items/c282.png",
+  "wikiFile": "Collectible_How to Jump_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/How_to_Jump",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c283": {
+  "file": "assets/sprites/items/c283.png",
+  "wikiFile": "Collectible_D100_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/D100",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c284": {
+  "file": "assets/sprites/items/c284.png",
+  "wikiFile": "Collectible_D4_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/D4",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c285": {
+  "file": "assets/sprites/items/c285.png",
+  "wikiFile": "Collectible_D10_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/D10",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c286": {
+  "file": "assets/sprites/items/c286.png",
+  "wikiFile": "Collectible_Blank Card_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Blank_Card",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c287": {
+  "file": "assets/sprites/items/c287.png",
+  "wikiFile": "Collectible_Book of Secrets_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Book_of_Secrets",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c288": {
+  "file": "assets/sprites/items/c288.png",
+  "wikiFile": "Collectible_Box of Spiders_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Box_of_Spiders",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c289": {
+  "file": "assets/sprites/items/c289.png",
+  "wikiFile": "Collectible_Red Candle_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Red_Candle",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c292": {
+  "file": "assets/sprites/items/c292.png",
+  "wikiFile": "Collectible_Satanic Bible_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Satanic_Bible",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c295": {
+  "file": "assets/sprites/items/c295.png",
+  "wikiFile": "Collectible_Magic Fingers_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Magic_Fingers",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c297": {
+  "file": "assets/sprites/items/c297.png",
+  "wikiFile": "Collectible_Pandora's Box_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Pandora's_Box",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c298": {
+  "file": "assets/sprites/items/c298.png",
+  "wikiFile": "Collectible_Unicorn Stump_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Unicorn_Stump",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c299": {
+  "file": "assets/sprites/items/c299.png",
+  "wikiFile": "Collectible_Taurus_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Taurus",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c300": {
+  "file": "assets/sprites/items/c300.png",
+  "wikiFile": "Collectible_Aries_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Aries",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c301": {
+  "file": "assets/sprites/items/c301.png",
+  "wikiFile": "Collectible_Cancer_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Cancer",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c304": {
+  "file": "assets/sprites/items/c304.png",
+  "wikiFile": "Collectible_Libra_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Libra",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c309": {
+  "file": "assets/sprites/items/c309.png",
+  "wikiFile": "Collectible_Pisces_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Pisces",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c310": {
+  "file": "assets/sprites/items/c310.png",
+  "wikiFile": "Collectible_Eve's Mascara_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Eve's_Mascara",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c313": {
+  "file": "assets/sprites/items/c313.png",
+  "wikiFile": "Collectible_Holy Mantle_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Holy_Mantle",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c316": {
+  "file": "assets/sprites/items/c316.png",
+  "wikiFile": "Collectible_Cursed Eye_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Cursed_Eye",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c319": {
+  "file": "assets/sprites/items/c319.png",
+  "wikiFile": "Collectible_Cain's Other Eye_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Cain's_Other_Eye",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c323": {
+  "file": "assets/sprites/items/c323.png",
+  "wikiFile": "Collectible_Isaac's Tears_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Isaac's_Tears",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c326": {
+  "file": "assets/sprites/items/c326.png",
+  "wikiFile": "Collectible_Breath of Life_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Breath_of_Life",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c330": {
+  "file": "assets/sprites/items/c330.png",
+  "wikiFile": "Collectible_Soy Milk_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Soy_Milk",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c331": {
+  "file": "assets/sprites/items/c331.png",
+  "wikiFile": "Collectible_Godhead_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Godhead",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c334": {
+  "file": "assets/sprites/items/c334.png",
+  "wikiFile": "Collectible_The Body_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Body",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c338": {
+  "file": "assets/sprites/items/c338.png",
+  "wikiFile": "Collectible_The Boomerang_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Boomerang",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c349": {
+  "file": "assets/sprites/items/c349.png",
+  "wikiFile": "Collectible_Wooden Nickel_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Wooden_Nickel",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c351": {
+  "file": "assets/sprites/items/c351.png",
+  "wikiFile": "Collectible_Mega Bean_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mega_Bean",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c352": {
+  "file": "assets/sprites/items/c352.png",
+  "wikiFile": "Collectible_Glass Cannon_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Glass_Cannon",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c353": {
+  "file": "assets/sprites/items/c353.png",
+  "wikiFile": "Collectible_Bomber Boy_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Bomber_Boy",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c357": {
+  "file": "assets/sprites/items/c357.png",
+  "wikiFile": "Collectible_Box of Friends_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Box_of_Friends",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c360": {
+  "file": "assets/sprites/items/c360.png",
+  "wikiFile": "Collectible_Incubus_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Incubus",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c362": {
+  "file": "assets/sprites/items/c362.png",
+  "wikiFile": "Collectible_Lil Chest_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lil_Chest",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c363": {
+  "file": "assets/sprites/items/c363.png",
+  "wikiFile": "Collectible_Sworn Protector_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sworn_Protector",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c373": {
+  "file": "assets/sprites/items/c373.png",
+  "wikiFile": "Collectible_Dead Eye_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dead_Eye",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c384": {
+  "file": "assets/sprites/items/c384.png",
+  "wikiFile": "Collectible_Lil Gurdy_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lil_Gurdy",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c386": {
+  "file": "assets/sprites/items/c386.png",
+  "wikiFile": "Collectible_D12_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/D12",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c395": {
+  "file": "assets/sprites/items/c395.png",
+  "wikiFile": "Collectible_Tech X_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tech_X",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c397": {
+  "file": "assets/sprites/items/c397.png",
+  "wikiFile": "Collectible_Tractor Beam_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tractor_Beam",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c399": {
+  "file": "assets/sprites/items/c399.png",
+  "wikiFile": "Collectible_Maw Of The Void_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Maw_Of_The_Void",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c400": {
+  "file": "assets/sprites/items/c400.png",
+  "wikiFile": "Collectible_Spear Of Destiny_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Spear_Of_Destiny",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c406": {
+  "file": "assets/sprites/items/c406.png",
+  "wikiFile": "Collectible_D8_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/D8",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c412": {
+  "file": "assets/sprites/items/c412.png",
+  "wikiFile": "Collectible_Cambion Conception_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Cambion_Conception",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c413": {
+  "file": "assets/sprites/items/c413.png",
+  "wikiFile": "Collectible_Immaculate Conception_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Immaculate_Conception",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c415": {
+  "file": "assets/sprites/items/c415.png",
+  "wikiFile": "Collectible_Crown Of Light_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Crown_Of_Light",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c421": {
+  "file": "assets/sprites/items/c421.png",
+  "wikiFile": "Collectible_Kidney Bean_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Kidney_Bean",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c422": {
+  "file": "assets/sprites/items/c422.png",
+  "wikiFile": "Collectible_Glowing Hourglass_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Glowing_Hourglass",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c434": {
+  "file": "assets/sprites/items/c434.png",
+  "wikiFile": "Collectible_Jar of Flies_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Jar_of_Flies",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c437": {
+  "file": "assets/sprites/items/c437.png",
+  "wikiFile": "Collectible_D7_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/D7",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c439": {
+  "file": "assets/sprites/items/c439.png",
+  "wikiFile": "Collectible_Mom's Box_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Box",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c441": {
+  "file": "assets/sprites/items/c441.png",
+  "wikiFile": "Collectible_Mega Blast_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mega_Blast",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c451": {
+  "file": "assets/sprites/items/c451.png",
+  "wikiFile": "Collectible_Tarot Cloth_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tarot_Cloth",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c455": {
+  "file": "assets/sprites/items/c455.png",
+  "wikiFile": "Collectible_Dad's Lost Coin_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dad's_Lost_Coin",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c459": {
+  "file": "assets/sprites/items/c459.png",
+  "wikiFile": "Collectible_Sinus Infection_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sinus_Infection",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c462": {
+  "file": "assets/sprites/items/c462.png",
+  "wikiFile": "Collectible_Eye of Belial_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_Belial",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c472": {
+  "file": "assets/sprites/items/c472.png",
+  "wikiFile": "Collectible_King Baby_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/King_Baby",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c475": {
+  "file": "assets/sprites/items/c475.png",
+  "wikiFile": "Collectible_Plan C_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Plan_C",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c476": {
+  "file": "assets/sprites/items/c476.png",
+  "wikiFile": "Collectible_D1_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/D1",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c477": {
+  "file": "assets/sprites/items/c477.png",
+  "wikiFile": "Collectible_Void_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Void",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c480": {
+  "file": "assets/sprites/items/c480.png",
+  "wikiFile": "Collectible_Compost_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Compost",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c482": {
+  "file": "assets/sprites/items/c482.png",
+  "wikiFile": "Collectible_Clicker_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Clicker",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c483": {
+  "file": "assets/sprites/items/c483.png",
+  "wikiFile": "Collectible_Mama Mega!_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mama_Mega!",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c488": {
+  "file": "assets/sprites/items/c488.png",
+  "wikiFile": "Collectible_Metronome_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Metronome",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c490": {
+  "file": "assets/sprites/items/c490.png",
+  "wikiFile": "Collectible_Eden's Soul_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Eden's_Soul",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c491": {
+  "file": "assets/sprites/items/c491.png",
+  "wikiFile": "Collectible_Acid Baby_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Acid_Baby",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c496": {
+  "file": "assets/sprites/items/c496.png",
+  "wikiFile": "Collectible_Euthanasia_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Euthanasia",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c510": {
+  "file": "assets/sprites/items/c510.png",
+  "wikiFile": "Collectible_Delirious_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Delirious",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c512": {
+  "file": "assets/sprites/items/c512.png",
+  "wikiFile": "Collectible_Black Hole_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Black_Hole",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c520": {
+  "file": "assets/sprites/items/c520.png",
+  "wikiFile": "Collectible_Jumper Cables_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Jumper_Cables",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c529": {
+  "file": "assets/sprites/items/c529.png",
+  "wikiFile": "Collectible_Pop!_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Pop!",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c531": {
+  "file": "assets/sprites/items/c531.png",
+  "wikiFile": "Collectible_Haemolacria_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Haemolacria",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c534": {
+  "file": "assets/sprites/items/c534.png",
+  "wikiFile": "Collectible_Schoolbag_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Schoolbag",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c543": {
+  "file": "assets/sprites/items/c543.png",
+  "wikiFile": "Collectible_Hallowed Ground_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Hallowed_Ground",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c545": {
+  "file": "assets/sprites/items/c545.png",
+  "wikiFile": "Collectible_Book of the Dead_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Book_of_the_Dead",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c549": {
+  "file": "assets/sprites/items/c549.png",
+  "wikiFile": "Collectible_Brittle Bones_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Brittle_Bones",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c552": {
+  "file": "assets/sprites/items/c552.png",
+  "wikiFile": "Collectible_Mom's Shovel_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Shovel",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c554": {
+  "file": "assets/sprites/items/c554.png",
+  "wikiFile": "Collectible_2Spooky_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/2Spooky",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c556": {
+  "file": "assets/sprites/items/c556.png",
+  "wikiFile": "Collectible_Sulfur_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sulfur",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c557": {
+  "file": "assets/sprites/items/c557.png",
+  "wikiFile": "Collectible_Fortune Cookie_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Fortune_Cookie",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c558": {
+  "file": "assets/sprites/items/c558.png",
+  "wikiFile": "Collectible_Eye Sore_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Eye_Sore",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c561": {
+  "file": "assets/sprites/items/c561.png",
+  "wikiFile": "Collectible_Almond Milk_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Almond_Milk",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c562": {
+  "file": "assets/sprites/items/c562.png",
+  "wikiFile": "Collectible_Rock Bottom_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Rock_Bottom",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c565": {
+  "file": "assets/sprites/items/c565.png",
+  "wikiFile": "Collectible_Blood Puppy_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Blood_Puppy",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c566": {
+  "file": "assets/sprites/items/c566.png",
+  "wikiFile": "Collectible_Dream Catcher_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dream_Catcher",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c567": {
+  "file": "assets/sprites/items/c567.png",
+  "wikiFile": "Collectible_Paschal Candle_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Paschal_Candle",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c568": {
+  "file": "assets/sprites/items/c568.png",
+  "wikiFile": "Collectible_Divine Intervention_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Divine_Intervention",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c569": {
+  "file": "assets/sprites/items/c569.png",
+  "wikiFile": "Collectible_Blood Oath_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Blood_Oath",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c571": {
+  "file": "assets/sprites/items/c571.png",
+  "wikiFile": "Collectible_Orphan Socks_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Orphan_Socks",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c572": {
+  "file": "assets/sprites/items/c572.png",
+  "wikiFile": "Collectible_Eye of the Occult_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_the_Occult",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c573": {
+  "file": "assets/sprites/items/c573.png",
+  "wikiFile": "Collectible_Immaculate Heart_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Immaculate_Heart",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c574": {
+  "file": "assets/sprites/items/c574.png",
+  "wikiFile": "Collectible_Monstrance_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Monstrance",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c576": {
+  "file": "assets/sprites/items/c576.png",
+  "wikiFile": "Collectible_Dirty Mind_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dirty_Mind",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c579": {
+  "file": "assets/sprites/items/c579.png",
+  "wikiFile": "Collectible_Spirit Sword_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Spirit_Sword",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c580": {
+  "file": "assets/sprites/items/c580.png",
+  "wikiFile": "Collectible_Red Key_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Red_Key",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c584": {
+  "file": "assets/sprites/items/c584.png",
+  "wikiFile": "Collectible_Book of Virtues_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Book_of_Virtues",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c585": {
+  "file": "assets/sprites/items/c585.png",
+  "wikiFile": "Collectible_Alabaster Box_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Alabaster_Box",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c586": {
+  "file": "assets/sprites/items/c586.png",
+  "wikiFile": "Collectible_The Stairway_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Stairway",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c588": {
+  "file": "assets/sprites/items/c588.png",
+  "wikiFile": "Collectible_Sol_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sol",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c589": {
+  "file": "assets/sprites/items/c589.png",
+  "wikiFile": "Collectible_Luna_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Luna",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c590": {
+  "file": "assets/sprites/items/c590.png",
+  "wikiFile": "Collectible_Mercurius_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mercurius",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c591": {
+  "file": "assets/sprites/items/c591.png",
+  "wikiFile": "Collectible_Venus_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Venus",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c592": {
+  "file": "assets/sprites/items/c592.png",
+  "wikiFile": "Collectible_Terra_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Terra",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c593": {
+  "file": "assets/sprites/items/c593.png",
+  "wikiFile": "Collectible_Mars_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mars",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c594": {
+  "file": "assets/sprites/items/c594.png",
+  "wikiFile": "Collectible_Jupiter_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Jupiter",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c595": {
+  "file": "assets/sprites/items/c595.png",
+  "wikiFile": "Collectible_Saturnus_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Saturnus",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c596": {
+  "file": "assets/sprites/items/c596.png",
+  "wikiFile": "Collectible_Uranus_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Uranus",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c597": {
+  "file": "assets/sprites/items/c597.png",
+  "wikiFile": "Collectible_Neptunus_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Neptunus",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c598": {
+  "file": "assets/sprites/items/c598.png",
+  "wikiFile": "Collectible_Pluto_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Pluto",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c599": {
+  "file": "assets/sprites/items/c599.png",
+  "wikiFile": "Collectible_Voodoo Head_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Voodoo_Head",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c601": {
+  "file": "assets/sprites/items/c601.png",
+  "wikiFile": "Collectible_Act of Contrition_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Act_of_Contrition",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c602": {
+  "file": "assets/sprites/items/c602.png",
+  "wikiFile": "Collectible_Member Card_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Member_Card",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c606": {
+  "file": "assets/sprites/items/c606.png",
+  "wikiFile": "Collectible_Ocular Rift_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Ocular_Rift",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c616": {
+  "file": "assets/sprites/items/c616.png",
+  "wikiFile": "Collectible_Bird's Eye_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Bird's_Eye",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c617": {
+  "file": "assets/sprites/items/c617.png",
+  "wikiFile": "Collectible_Lodestone_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lodestone",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c619": {
+  "file": "assets/sprites/items/c619.png",
+  "wikiFile": "Collectible_Birthright_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Birthright",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c621": {
+  "file": "assets/sprites/items/c621.png",
+  "wikiFile": "Collectible_Red Stew_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Red_Stew",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c629": {
+  "file": "assets/sprites/items/c629.png",
+  "wikiFile": "Collectible_Bot Fly_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Bot_Fly",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c634": {
+  "file": "assets/sprites/items/c634.png",
+  "wikiFile": "Collectible_Purgatory_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Purgatory",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c636": {
+  "file": "assets/sprites/items/c636.png",
+  "wikiFile": "Collectible_R Key_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/R_Key",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c643": {
+  "file": "assets/sprites/items/c643.png",
+  "wikiFile": "Collectible_Revelation_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Revelation",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c644": {
+  "file": "assets/sprites/items/c644.png",
+  "wikiFile": "Collectible_Consolation Prize_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Consolation_Prize",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c646": {
+  "file": "assets/sprites/items/c646.png",
+  "wikiFile": "Collectible_Brimstone Bombs_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Brimstone_Bombs",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c647": {
+  "file": "assets/sprites/items/c647.png",
+  "wikiFile": "Collectible_4.5 Volt_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/4.5_Volt",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c649": {
+  "file": "assets/sprites/items/c649.png",
+  "wikiFile": "Collectible_Fruity Plum_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Fruity_Plum",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c651": {
+  "file": "assets/sprites/items/c651.png",
+  "wikiFile": "Collectible_Star of Bethlehem_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Star_of_Bethlehem",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c652": {
+  "file": "assets/sprites/items/c652.png",
+  "wikiFile": "Collectible_Cube Baby_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Cube_Baby",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c654": {
+  "file": "assets/sprites/items/c654.png",
+  "wikiFile": "Collectible_False PHD_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/False_PHD",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c658": {
+  "file": "assets/sprites/items/c658.png",
+  "wikiFile": "Collectible_Giant Cell_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Giant_Cell",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c661": {
+  "file": "assets/sprites/items/c661.png",
+  "wikiFile": "Collectible_Quints_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Quints",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c664": {
+  "file": "assets/sprites/items/c664.png",
+  "wikiFile": "Collectible_Binge Eater_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Binge_Eater",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c665": {
+  "file": "assets/sprites/items/c665.png",
+  "wikiFile": "Collectible_Guppy's Eye_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Guppy's_Eye",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c667": {
+  "file": "assets/sprites/items/c667.png",
+  "wikiFile": "Collectible_Strawman_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Strawman",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c669": {
+  "file": "assets/sprites/items/c669.png",
+  "wikiFile": "Collectible_Sausage_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sausage",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c671": {
+  "file": "assets/sprites/items/c671.png",
+  "wikiFile": "Collectible_Candy Heart_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Candy_Heart",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c672": {
+  "file": "assets/sprites/items/c672.png",
+  "wikiFile": "Collectible_A Pound of Flesh_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/A_Pound_of_Flesh",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c674": {
+  "file": "assets/sprites/items/c674.png",
+  "wikiFile": "Collectible_Spirit Shackles_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Spirit_Shackles",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c677": {
+  "file": "assets/sprites/items/c677.png",
+  "wikiFile": "Collectible_Astral Projection_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Astral_Projection",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c679": {
+  "file": "assets/sprites/items/c679.png",
+  "wikiFile": "Collectible_Lil Abaddon_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lil_Abaddon",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c681": {
+  "file": "assets/sprites/items/c681.png",
+  "wikiFile": "Collectible_Lil Portal_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lil_Portal",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c683": {
+  "file": "assets/sprites/items/c683.png",
+  "wikiFile": "Collectible_Bone Spurs_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Bone_Spurs",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c685": {
+  "file": "assets/sprites/items/c685.png",
+  "wikiFile": "Collectible_Jar of Wisps_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Jar_of_Wisps",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c686": {
+  "file": "assets/sprites/items/c686.png",
+  "wikiFile": "Collectible_Soul Locket_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Soul_Locket",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c687": {
+  "file": "assets/sprites/items/c687.png",
+  "wikiFile": "Collectible_Friend Finder_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Friend_Finder",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c688": {
+  "file": "assets/sprites/items/c688.png",
+  "wikiFile": "Collectible_Inner Child_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Inner_Child",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c689": {
+  "file": "assets/sprites/items/c689.png",
+  "wikiFile": "Collectible_Glitched Crown_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Glitched_Crown",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c691": {
+  "file": "assets/sprites/items/c691.png",
+  "wikiFile": "Collectible_Sacred Orb_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sacred_Orb",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c692": {
+  "file": "assets/sprites/items/c692.png",
+  "wikiFile": "Collectible_Sanguine Bond_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sanguine_Bond",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c693": {
+  "file": "assets/sprites/items/c693.png",
+  "wikiFile": "Collectible_The Swarm_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Swarm",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c694": {
+  "file": "assets/sprites/items/c694.png",
+  "wikiFile": "Collectible_Heartbreak_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Heartbreak",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c696": {
+  "file": "assets/sprites/items/c696.png",
+  "wikiFile": "Collectible_Salvation_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Salvation",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c698": {
+  "file": "assets/sprites/items/c698.png",
+  "wikiFile": "Collectible_Twisted Pair_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Twisted_Pair",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c699": {
+  "file": "assets/sprites/items/c699.png",
+  "wikiFile": "Collectible_Azazel's Rage_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Azazel's_Rage",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c700": {
+  "file": "assets/sprites/items/c700.png",
+  "wikiFile": "Collectible_Echo Chamber_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Echo_Chamber",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c701": {
+  "file": "assets/sprites/items/c701.png",
+  "wikiFile": "Collectible_Isaac's Tomb_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Isaac's_Tomb",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c702": {
+  "file": "assets/sprites/items/c702.png",
+  "wikiFile": "Collectible_Vengeful Spirit_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Vengeful_Spirit",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c703": {
+  "file": "assets/sprites/items/c703.png",
+  "wikiFile": "Collectible_Esau Jr._icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Esau_Jr.",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c704": {
+  "file": "assets/sprites/items/c704.png",
+  "wikiFile": "Collectible_Berserk!_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Berserk!",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c705": {
+  "file": "assets/sprites/items/c705.png",
+  "wikiFile": "Collectible_Dark Arts_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dark_Arts",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c706": {
+  "file": "assets/sprites/items/c706.png",
+  "wikiFile": "Collectible_Abyss_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Abyss",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c708": {
+  "file": "assets/sprites/items/c708.png",
+  "wikiFile": "Collectible_Stapler_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Stapler",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c710": {
+  "file": "assets/sprites/items/c710.png",
+  "wikiFile": "Collectible_Bag of Crafting_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Bag_of_Crafting",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c711": {
+  "file": "assets/sprites/items/c711.png",
+  "wikiFile": "Collectible_Flip_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Flip",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c712": {
+  "file": "assets/sprites/items/c712.png",
+  "wikiFile": "Collectible_Lemegeton_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lemegeton",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c713": {
+  "file": "assets/sprites/items/c713.png",
+  "wikiFile": "Collectible_Sumptorium_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Sumptorium",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c715": {
+  "file": "assets/sprites/items/c715.png",
+  "wikiFile": "Collectible_Hold_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Hold",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c716": {
+  "file": "assets/sprites/items/c716.png",
+  "wikiFile": "Collectible_Keeper's Sack_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Keeper's_Sack",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c721": {
+  "file": "assets/sprites/items/c721.png",
+  "wikiFile": "Collectible_TMTRAINER_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/TMTRAINER",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c722": {
+  "file": "assets/sprites/items/c722.png",
+  "wikiFile": "Collectible_Anima Sola_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Anima_Sola",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c723": {
+  "file": "assets/sprites/items/c723.png",
+  "wikiFile": "Collectible_Spindown Dice_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Spindown_Dice",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c726": {
+  "file": "assets/sprites/items/c726.png",
+  "wikiFile": "Collectible_Hemoptysis_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Hemoptysis",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c727": {
+  "file": "assets/sprites/items/c727.png",
+  "wikiFile": "Collectible_Ghost Bombs_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Ghost_Bombs",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c728": {
+  "file": "assets/sprites/items/c728.png",
+  "wikiFile": "Collectible_Gello_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Gello",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c730": {
+  "file": "assets/sprites/items/c730.png",
+  "wikiFile": "Collectible_Glass Eye_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Glass_Eye",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c731": {
+  "file": "assets/sprites/items/c731.png",
+  "wikiFile": "Collectible_Stye_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Stye",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c732": {
+  "file": "assets/sprites/items/c732.png",
+  "wikiFile": "Collectible_Mom's Ring_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Ring",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t1": {
+  "file": "assets/sprites/items/t1.png",
+  "wikiFile": "Trinket_Swallowed Penny_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Swallowed_Penny",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t2": {
+  "file": "assets/sprites/items/t2.png",
+  "wikiFile": "Trinket_Petrified Poop_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Petrified_Poop",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t7": {
+  "file": "assets/sprites/items/t7.png",
+  "wikiFile": "Trinket_Rosary Bead_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Rosary_Bead",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t16": {
+  "file": "assets/sprites/items/t16.png",
+  "wikiFile": "Trinket_Mom's Toenail_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mom's_Toenail",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t22": {
+  "file": "assets/sprites/items/t22.png",
+  "wikiFile": "Trinket_Daemon's Tail_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Daemon's_Tail",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t59": {
+  "file": "assets/sprites/items/t59.png",
+  "wikiFile": "Trinket_Cain's Eye_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Cain's_Eye",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t61": {
+  "file": "assets/sprites/items/t61.png",
+  "wikiFile": "Trinket_The Left Hand_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Left_Hand",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t72": {
+  "file": "assets/sprites/items/t72.png",
+  "wikiFile": "Trinket_Watch Battery_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Watch_Battery",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t80": {
+  "file": "assets/sprites/items/t80.png",
+  "wikiFile": "Trinket_Black Feather_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Black_Feather",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t81": {
+  "file": "assets/sprites/items/t81.png",
+  "wikiFile": "Trinket_Blind Rage_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Blind_Rage",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t83": {
+  "file": "assets/sprites/items/t83.png",
+  "wikiFile": "Trinket_Store Key_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Store_Key",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t85": {
+  "file": "assets/sprites/items/t85.png",
+  "wikiFile": "Trinket_Karma_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Karma",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t86": {
+  "file": "assets/sprites/items/t86.png",
+  "wikiFile": "Trinket_Lil Larva_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lil_Larva",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t90": {
+  "file": "assets/sprites/items/t90.png",
+  "wikiFile": "Trinket_Brown Cap_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Brown_Cap",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t96": {
+  "file": "assets/sprites/items/t96.png",
+  "wikiFile": "Trinket_Ouroboros Worm_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Ouroboros_Worm",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t97": {
+  "file": "assets/sprites/items/t97.png",
+  "wikiFile": "Trinket_Tonsil_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tonsil",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t101": {
+  "file": "assets/sprites/items/t101.png",
+  "wikiFile": "Trinket_Dim Bulb_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Dim_Bulb",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t105": {
+  "file": "assets/sprites/items/t105.png",
+  "wikiFile": "Trinket_Bag Lunch_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Bag_Lunch",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t107": {
+  "file": "assets/sprites/items/t107.png",
+  "wikiFile": "Trinket_Crow Heart_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t120": {
+  "file": "assets/sprites/items/t120.png",
+  "wikiFile": "Trinket_Hairpin_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Hairpin",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t121": {
+  "file": "assets/sprites/items/t121.png",
+  "wikiFile": "Trinket_Wooden Cross_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Wooden_Cross",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t129": {
+  "file": "assets/sprites/items/t129.png",
+  "wikiFile": "Trinket_Jawbreaker_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Jawbreaker",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t139": {
+  "file": "assets/sprites/items/t139.png",
+  "wikiFile": "Trinket_Teardrop Charm_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Teardrop_Charm",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t156": {
+  "file": "assets/sprites/items/t156.png",
+  "wikiFile": "Trinket_Mother's Kiss_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Mother's_Kiss",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t159": {
+  "file": "assets/sprites/items/t159.png",
+  "wikiFile": "Trinket_Gilded Key_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Gilded_Key",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t160": {
+  "file": "assets/sprites/items/t160.png",
+  "wikiFile": "Trinket_Lucky Sack_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lucky_Sack",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t161": {
+  "file": "assets/sprites/items/t161.png",
+  "wikiFile": "Trinket_Wicked Crown_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Wicked_Crown",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t168": {
+  "file": "assets/sprites/items/t168.png",
+  "wikiFile": "Trinket_Hollow Heart_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Hollow_Heart",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "t172": {
+  "file": "assets/sprites/items/t172.png",
+  "wikiFile": "Trinket_Cursed Penny_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Cursed_Penny",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c245": {
+  "file": "assets/sprites/items/c245.png",
+  "wikiFile": "Collectible_20_20_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/20%2F20",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "p0": {
+  "icon": {
+   "file": "assets/sprites/chars/p0.png",
+   "wikiFile": "Character_Isaac_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p0_portrait.png",
+   "wikiFile": "Character_Isaac_appearance.png",
+   "size": [
+    28,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Isaac"
+ },
+ "p1": {
+  "icon": {
+   "file": "assets/sprites/chars/p1.png",
+   "wikiFile": "Character_Magdalene_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p1_portrait.png",
+   "wikiFile": "Character_Magdalene_appearance.png",
+   "size": [
+    39,
+    39
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Magdalene"
+ },
+ "p2": {
+  "icon": {
+   "file": "assets/sprites/chars/p2.png",
+   "wikiFile": "Character_Cain_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p2_portrait.png",
+   "wikiFile": "Character_Cain_appearance.png",
+   "size": [
+    28,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Cain"
+ },
+ "p3": {
+  "icon": {
+   "file": "assets/sprites/chars/p3.png",
+   "wikiFile": "Character_Judas_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p3_portrait.png",
+   "wikiFile": "Character_Judas_appearance.png",
+   "size": [
+    28,
+    38
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Judas"
+ },
+ "p4": {
+  "iconMissing": true,
+  "portrait": {
+   "file": "assets/sprites/chars/p4_portrait.png",
+   "wikiFile": "Character_???_appearance.png",
+   "size": [
+    28,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/%3F%3F%3F"
+ },
+ "p5": {
+  "icon": {
+   "file": "assets/sprites/chars/p5.png",
+   "wikiFile": "Character_Eve_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p5_portrait.png",
+   "wikiFile": "Character_Eve_appearance.png",
+   "size": [
+    30,
+    34
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Eve"
+ },
+ "p6": {
+  "icon": {
+   "file": "assets/sprites/chars/p6.png",
+   "wikiFile": "Character_Samson_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p6_portrait.png",
+   "wikiFile": "Character_Samson_appearance.png",
+   "size": [
+    34,
+    35
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Samson"
+ },
+ "p7": {
+  "icon": {
+   "file": "assets/sprites/chars/p7.png",
+   "wikiFile": "Character_Azazel_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p7_portrait.png",
+   "wikiFile": "Character_Azazel_appearance.png",
+   "size": [
+    38,
+    42
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Azazel"
+ },
+ "p8": {
+  "icon": {
+   "file": "assets/sprites/chars/p8.png",
+   "wikiFile": "Character_Lazarus_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p8_portrait.png",
+   "wikiFile": "Character_Lazarus_appearance.png",
+   "size": [
+    29,
+    34
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lazarus"
+ },
+ "p9": {
+  "icon": {
+   "file": "assets/sprites/chars/p9.png",
+   "wikiFile": "Character_Eden_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p9_portrait.png",
+   "wikiFile": "Character_Eden_appearance.png",
+   "size": [
+    28,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Eden"
+ },
+ "p10": {
+  "icon": {
+   "file": "assets/sprites/chars/p10.png",
+   "wikiFile": "Character_The Lost_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p10_portrait.png",
+   "wikiFile": "Character_The Lost_appearance.png",
+   "size": [
+    28,
+    36
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Lost"
+ },
+ "p13": {
+  "icon": {
+   "file": "assets/sprites/chars/p13.png",
+   "wikiFile": "Character_Lilith_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p13_portrait.png",
+   "wikiFile": "Character_Lilith_appearance.png",
+   "size": [
+    34,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Lilith"
+ },
+ "p14": {
+  "icon": {
+   "file": "assets/sprites/chars/p14.png",
+   "wikiFile": "Character_Keeper_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p14_portrait.png",
+   "wikiFile": "Character_Keeper_appearance.png",
+   "size": [
+    28,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Keeper"
+ },
+ "p15": {
+  "icon": {
+   "file": "assets/sprites/chars/p15.png",
+   "wikiFile": "Character_Apollyon_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p15_portrait.png",
+   "wikiFile": "Character_Apollyon_appearance.png",
+   "size": [
+    28,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Apollyon"
+ },
+ "p16": {
+  "icon": {
+   "file": "assets/sprites/chars/p16.png",
+   "wikiFile": "Character_The Forgotten_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p16_portrait.png",
+   "wikiFile": "Character_The Forgotten_appearance.png",
+   "size": [
+    28,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/The_Forgotten"
+ },
+ "p18": {
+  "icon": {
+   "file": "assets/sprites/chars/p18.png",
+   "wikiFile": "Character_Bethany_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p18_portrait.png",
+   "wikiFile": "Character_Bethany_appearance.png",
+   "size": [
+    44,
+    39
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Bethany"
+ },
+ "p19": {
+  "icon": {
+   "file": "assets/sprites/chars/p19.png",
+   "wikiFile": "Character_Jacob and Esau_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p19_portrait.png",
+   "wikiFile": "Character_Jacob and Esau_appearance.png",
+   "size": [
+    60,
+    36
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Jacob_and_Esau"
+ },
+ "p21": {
+  "icon": {
+   "file": "assets/sprites/chars/p21.png",
+   "wikiFile": "Character_Tainted Isaac_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p21_portrait.png",
+   "wikiFile": "Character_Tainted Isaac_appearance.png",
+   "size": [
+    28,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Isaac"
+ },
+ "p22": {
+  "icon": {
+   "file": "assets/sprites/chars/p22.png",
+   "wikiFile": "Character_Tainted Magdalene_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p22_portrait.png",
+   "wikiFile": "Character_Tainted Magdalene_appearance.png",
+   "size": [
+    35,
+    39
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Magdalene"
+ },
+ "p23": {
+  "icon": {
+   "file": "assets/sprites/chars/p23.png",
+   "wikiFile": "Character_Tainted Cain_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p23_portrait.png",
+   "wikiFile": "Character_Tainted Cain_appearance.png",
+   "size": [
+    28,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Cain"
+ },
+ "p24": {
+  "icon": {
+   "file": "assets/sprites/chars/p24.png",
+   "wikiFile": "Character_Tainted Judas_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p24_portrait.png",
+   "wikiFile": "Character_Tainted Judas_appearance.png",
+   "size": [
+    28,
+    38
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Judas"
+ },
+ "p25": {
+  "icon": {
+   "file": "assets/sprites/chars/p25.png",
+   "wikiFile": "Character_Tainted ???_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p25_portrait.png",
+   "wikiFile": "Character_Tainted ???_appearance.png",
+   "size": [
+    28,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_%3F%3F%3F"
+ },
+ "p26": {
+  "icon": {
+   "file": "assets/sprites/chars/p26.png",
+   "wikiFile": "Character_Tainted Eve_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p26_portrait.png",
+   "wikiFile": "Character_Tainted Eve_appearance.png",
+   "size": [
+    33,
+    36
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Eve"
+ },
+ "p27": {
+  "icon": {
+   "file": "assets/sprites/chars/p27.png",
+   "wikiFile": "Character_Tainted Samson_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p27_portrait.png",
+   "wikiFile": "Character_Tainted Samson_appearance.png",
+   "size": [
+    30,
+    36
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Samson"
+ },
+ "p28": {
+  "icon": {
+   "file": "assets/sprites/chars/p28.png",
+   "wikiFile": "Character_Tainted Azazel_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p28_portrait.png",
+   "wikiFile": "Character_Tainted Azazel_appearance.png",
+   "size": [
+    32,
+    39
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Azazel"
+ },
+ "p29": {
+  "icon": {
+   "file": "assets/sprites/chars/p29.png",
+   "wikiFile": "Character_Tainted Lazarus_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p29_portrait.png",
+   "wikiFile": "Character_Tainted Lazarus_appearance.png",
+   "size": [
+    33,
+    35
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Lazarus"
+ },
+ "p30": {
+  "icon": {
+   "file": "assets/sprites/chars/p30.png",
+   "wikiFile": "Character_Tainted Eden_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p30_portrait.png",
+   "wikiFile": "Character_Tainted Eden_appearance.png",
+   "size": [
+    29,
+    34
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Eden"
+ },
+ "p31": {
+  "icon": {
+   "file": "assets/sprites/chars/p31.png",
+   "wikiFile": "Character_Tainted Lost_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p31_portrait.png",
+   "wikiFile": "Character_Tainted Lost_appearance.png",
+   "size": [
+    28,
+    37
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Lost"
+ },
+ "p32": {
+  "icon": {
+   "file": "assets/sprites/chars/p32.png",
+   "wikiFile": "Character_Tainted Lilith_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p32_portrait.png",
+   "wikiFile": "Character_Tainted Lilith_appearance.png",
+   "size": [
+    38,
+    35
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Lilith"
+ },
+ "p33": {
+  "icon": {
+   "file": "assets/sprites/chars/p33.png",
+   "wikiFile": "Character_Tainted Keeper_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p33_portrait.png",
+   "wikiFile": "Character_Tainted Keeper_appearance.png",
+   "size": [
+    28,
+    33
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Keeper"
+ },
+ "p34": {
+  "icon": {
+   "file": "assets/sprites/chars/p34.png",
+   "wikiFile": "Character_Tainted Apollyon_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p34_portrait.png",
+   "wikiFile": "Character_Tainted Apollyon_appearance.png",
+   "size": [
+    30,
+    35
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Apollyon"
+ },
+ "p35": {
+  "icon": {
+   "file": "assets/sprites/chars/p35.png",
+   "wikiFile": "Character_Tainted Forgotten_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p35_portrait.png",
+   "wikiFile": "Character_Tainted Forgotten_appearance.png",
+   "size": [
+    32,
+    29
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Forgotten"
+ },
+ "p36": {
+  "icon": {
+   "file": "assets/sprites/chars/p36.png",
+   "wikiFile": "Character_Tainted Bethany_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p36_portrait.png",
+   "wikiFile": "Character_Tainted Bethany_appearance.png",
+   "size": [
+    42,
+    39
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Bethany"
+ },
+ "p37": {
+  "icon": {
+   "file": "assets/sprites/chars/p37.png",
+   "wikiFile": "Character_Tainted Jacob_icon.png",
+   "size": [
+    32,
+    32
+   ]
+  },
+  "portrait": {
+   "file": "assets/sprites/chars/p37_portrait.png",
+   "wikiFile": "Character_Tainted Jacob_appearance.png",
+   "size": [
+    30,
+    38
+   ]
+  },
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Tainted_Jacob"
+ },
+ "c50": {
+  "file": "assets/sprites/items/c50.png",
+  "wikiFile": "Collectible_Steven_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Steven",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c120": {
+  "file": "assets/sprites/items/c120.png",
+  "wikiFile": "Collectible_Odd Mushroom (Thin)_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Odd_Mushroom_(Thin)",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c121": {
+  "file": "assets/sprites/items/c121.png",
+  "wikiFile": "Collectible_Odd Mushroom (Large)_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Odd_Mushroom_(Large)",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "c624": {
+  "file": "assets/sprites/items/c624.png",
+  "wikiFile": "Collectible_Booster Pack_icon.png",
+  "page": "https://bindingofisaacrebirth.fandom.com/wiki/Booster_Pack",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

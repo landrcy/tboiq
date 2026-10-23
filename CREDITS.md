@@ -1,17 +1,25 @@
 # Credits & licensing
 
-TBOIQ is an unofficial fan project. It is not affiliated with or endorsed by Edmund McMillen, Nicalis, or Team Meat. *The Binding of Isaac* is their trademark. **No official sprites, art, music or sound are used**, and nothing is hotlinked.
+**TBOIQ is an unofficial fan project. It is not affiliated with or endorsed by Edmund McMillen, Nicalis or Team Meat.** *The Binding of Isaac* and everything in it belong to their owners.
 
-## Art (original, self-made)
-- **TBOIQ pixel art kit** (`assets/art/`): Dungeon-24 palette (`palette.json`, `palette.css`), 32 item icons (16x16), 8 character portraits (24x24), 11 UI icons with hover variants. Original, hand-authored pixel art made for this project by the "pixel boss" agent; no AI-generated images, no third-party or official assets.
-- **Procedural fallback icons** (`js/icons.js`): original code-drawn 16x16 pixel art and pool glyphs.
-- Favicon is one of the kit's icons.
+## Sprites (not ours)
+- Item, trinket and character sprites are **(c) Edmund McMillen / Nicalis / respective owners**.
+- They are sourced from the **Binding of Isaac Wiki** (<https://bindingofisaacrebirth.fandom.com/>), where wiki content is available under **CC BY-SA 3.0** (<https://creativecommons.org/licenses/by-sa/3.0/>). The game's art itself remains the property of its owners; it is used here as a non-commercial fan project.
+- Files were downloaded one by one at a polite rate from the wiki's public image host, saved locally in `assets/sprites/` (nothing is hotlinked) and converted from WebP to PNG. No other changes.
+- `tools/sprites_manifest.json` records, for every sprite, the local file, the original wiki file name and the wiki page it belongs to. `tools/fetch_sprites.py` is the downloader. The in-site detail cards link each entry to its wiki page.
+- 349 items/trinkets have a real sprite (0 use fallback art). 33 characters have a wiki icon and 34 have a wiki portrait (??? has only a portrait).
+- If you are a rights holder and want something removed, open an issue and it will be taken down.
 
-## Audio (original, self-made)
-- Chiptune loop (original 8-bar A-minor melody) and SFX are synthesized live with WebAudio in `js/audio.js`. No audio files. Off until the user toggles sound.
+## Data and text
+- Facts shown (IDs, quality, pools, recharge, DLC, character stats, starting items, unlock methods) come from the Binding of Isaac wikis (Fandom and wiki.gg, CC BY-SA 3.0) and were checked against the wiki tables. Facts are not copyrightable, but the source is credited anyway.
+- The short effect descriptions and unlock phrases (`d` / `u` in `data/*.js`, source in `tools/item_info.txt` and `tools/build_v2.py`) are **written in our own words**, not copied from the wiki.
+- Wiki pages were read with ordinary public HTTP requests. No block, login or captcha was bypassed.
 
-## Font
-- **Press Start 2P**, (c) 2012 The Press Start 2P Project Authors (cody@zone38.net), SIL Open Font License 1.1. See `fonts/OFL.txt`. Bundled locally.
+## Original work in this repo
+- **Pixel art kit** (`assets/art/`): Dungeon-24 palette, UI icons and fallback portraits. Original, hand-authored; no AI-generated images.
+- **Procedural art** (`js/icons.js`, `js/theme.js`): code-drawn glyphs, pool icons, pedestal, and the cracked-stone / flesh / blood textures, generated at load.
+- **Audio**: an original 8-bar chiptune loop and SFX synthesized with WebAudio in `js/audio.js`. No audio files, and sound is off until the player turns it on.
 
-## Data
-- Names, ids, quality, pools, recharge, DLC, character attributes are factual game data compiled by hand, cross-checked against the public Binding of Isaac: Rebirth wiki (wiki.gg). Only facts are used (no wiki text or images).
+## Fonts (bundled locally, SIL Open Font License 1.1)
+- **Press Start 2P** (c) 2012 The Press Start 2P Project Authors. `fonts/OFL.txt`.
+- **Creepster** (c) 2011 Font Diner, Inc. `fonts/OFL-Creepster.txt`.

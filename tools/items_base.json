@@ -1,0 +1,4449 @@
+[
+{
+"k": "c1",
+"name": "The Sad Onion",
+"n": 1,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c2",
+"name": "The Inner Eye",
+"n": 2,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c3",
+"name": "Spoon Bender",
+"n": 3,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c4",
+"name": "Cricket's Head",
+"n": 4,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c5",
+"name": "My Reflection",
+"n": 5,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c6",
+"name": "Number One",
+"n": 6,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c7",
+"name": "Blood of the Martyr",
+"n": 7,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"angel",
+"misc"
+]
+},
+{
+"k": "c8",
+"name": "Brother Bobby",
+"n": 8,
+"type": "familiar",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"devil",
+"baby"
+]
+},
+{
+"k": "c9",
+"name": "Skatole",
+"n": 9,
+"type": "passive",
+"q": 0,
+"dlc": 0,
+"rc": null,
+"pools": [
+"misc"
+]
+},
+{
+"k": "c10",
+"name": "Halo of Flies",
+"n": 10,
+"type": "familiar",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"baby",
+"misc"
+]
+},
+{
+"k": "c11",
+"name": "1up!",
+"n": 11,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c12",
+"name": "Magic Mushroom",
+"n": 12,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret"
+]
+},
+{
+"k": "c14",
+"name": "Roid Rage",
+"n": 14,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"boss",
+"misc"
+]
+},
+{
+"k": "c16",
+"name": "Raw Liver",
+"n": 16,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c17",
+"name": "Skeleton Key",
+"n": 17,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"secret"
+]
+},
+{
+"k": "c20",
+"name": "Transcendence",
+"n": 20,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c21",
+"name": "The Compass",
+"n": 21,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"shop",
+"crane",
+"misc"
+]
+},
+{
+"k": "c22",
+"name": "Lunch",
+"n": 22,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"misc"
+]
+},
+{
+"k": "c23",
+"name": "Dinner",
+"n": 23,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"misc"
+]
+},
+{
+"k": "c24",
+"name": "Dessert",
+"n": 24,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"misc"
+]
+},
+{
+"k": "c25",
+"name": "Breakfast",
+"n": 25,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"misc"
+]
+},
+{
+"k": "c26",
+"name": "Rotten Meat",
+"n": 26,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"misc"
+]
+},
+{
+"k": "c27",
+"name": "Wooden Spoon",
+"n": 27,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"misc"
+]
+},
+{
+"k": "c28",
+"name": "The Belt",
+"n": 28,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"goldchest"
+]
+},
+{
+"k": "c29",
+"name": "Mom's Underwear",
+"n": 29,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"goldchest",
+"misc"
+]
+},
+{
+"k": "c30",
+"name": "Mom's Heels",
+"n": 30,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"ultrasecret",
+"misc"
+]
+},
+{
+"k": "c31",
+"name": "Mom's Lipstick",
+"n": 31,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"ultrasecret",
+"misc"
+]
+},
+{
+"k": "c32",
+"name": "Wire Coat Hanger",
+"n": 32,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"goldchest",
+"crane"
+]
+},
+{
+"k": "c33",
+"name": "The Bible",
+"n": 33,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 4,
+"pools": [
+"shop",
+"angel",
+"library"
+]
+},
+{
+"k": "c34",
+"name": "The Book of Belial",
+"n": 34,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 3,
+"pools": [
+"devil",
+"library"
+]
+},
+{
+"k": "c35",
+"name": "The Necronomicon",
+"n": 35,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 4,
+"pools": [
+"devil",
+"secret",
+"library"
+]
+},
+{
+"k": "c36",
+"name": "The Poop",
+"n": 36,
+"type": "active",
+"q": 0,
+"dlc": 0,
+"rc": 1,
+"pools": [
+"treasure",
+"misc"
+]
+},
+{
+"k": "c37",
+"name": "Mr. Boom",
+"n": 37,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure",
+"misc"
+]
+},
+{
+"k": "c38",
+"name": "Tammy's Head",
+"n": 38,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 1,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c39",
+"name": "Mom's Bra",
+"n": 39,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 3,
+"pools": [
+"treasure",
+"misc"
+]
+},
+{
+"k": "c42",
+"name": "Bob's Rotten Head",
+"n": 42,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure",
+"misc"
+]
+},
+{
+"k": "c44",
+"name": "Teleport!",
+"n": 44,
+"type": "active",
+"q": 0,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c45",
+"name": "Yum Heart",
+"n": 45,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 4,
+"pools": [
+"treasure",
+"ultrasecret"
+]
+},
+{
+"k": "c46",
+"name": "Lucky Foot",
+"n": 46,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"crane",
+"misc"
+]
+},
+{
+"k": "c47",
+"name": "Doctor's Remote",
+"n": 47,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c49",
+"name": "Shoop da Whoop!",
+"n": 49,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure",
+"ultrasecret",
+"crane"
+]
+},
+{
+"k": "c51",
+"name": "Pentagram",
+"n": 51,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss",
+"devil",
+"curse",
+"ultrasecret",
+"crane",
+"misc"
+]
+},
+{
+"k": "c52",
+"name": "Dr. Fetus",
+"n": 52,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c53",
+"name": "Magneto",
+"n": 53,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret"
+]
+},
+{
+"k": "c56",
+"name": "Lemon Mishap",
+"n": 56,
+"type": "active",
+"q": 0,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c57",
+"name": "Distant Admiration",
+"n": 57,
+"type": "familiar",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"baby",
+"misc"
+]
+},
+{
+"k": "c58",
+"name": "Book of Shadows",
+"n": 58,
+"type": "active",
+"q": 3,
+"dlc": 0,
+"rc": 3,
+"pools": [
+"treasure",
+"library"
+]
+},
+{
+"k": "c65",
+"name": "Anarchist Cookbook",
+"n": 65,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 3,
+"pools": [
+"treasure",
+"library"
+]
+},
+{
+"k": "c66",
+"name": "The Hourglass",
+"n": 66,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c67",
+"name": "Sister Maggy",
+"n": 67,
+"type": "familiar",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"devil",
+"ultrasecret",
+"baby"
+]
+},
+{
+"k": "c68",
+"name": "Technology",
+"n": 68,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c69",
+"name": "Chocolate Milk",
+"n": 69,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c72",
+"name": "Rosary",
+"n": 72,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"angel",
+"ultrasecret"
+]
+},
+{
+"k": "c77",
+"name": "My Little Unicorn",
+"n": 77,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 4,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c78",
+"name": "Book of Revelations",
+"n": 78,
+"type": "active",
+"q": 3,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"treasure",
+"angel",
+"library"
+]
+},
+{
+"k": "c79",
+"name": "The Mark",
+"n": 79,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"devil",
+"curse",
+"ultrasecret",
+"misc"
+]
+},
+{
+"k": "c80",
+"name": "The Pact",
+"n": 80,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"devil",
+"curse",
+"ultrasecret",
+"misc"
+]
+},
+{
+"k": "c81",
+"name": "Dead Cat",
+"n": 81,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"devil",
+"curse",
+"redchest"
+]
+},
+{
+"k": "c82",
+"name": "Lord of the Pit",
+"n": 82,
+"type": "familiar",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"devil",
+"ultrasecret",
+"misc"
+]
+},
+{
+"k": "c83",
+"name": "The Nail",
+"n": 83,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"devil",
+"misc"
+]
+},
+{
+"k": "c84",
+"name": "We Need To Go Deeper!",
+"n": 84,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"devil",
+"secret"
+]
+},
+{
+"k": "c85",
+"name": "Deck of Cards",
+"n": 85,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"treasure",
+"shop",
+"crane"
+]
+},
+{
+"k": "c86",
+"name": "Monstro's Tooth",
+"n": 86,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 3,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c92",
+"name": "Super Bandage",
+"n": 92,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"boss"
+]
+},
+{
+"k": "c93",
+"name": "The Gamekid",
+"n": 93,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 4,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c94",
+"name": "Sack of Pennies",
+"n": 94,
+"type": "familiar",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c96",
+"name": "Little C.H.A.D.",
+"n": 96,
+"type": "familiar",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret",
+"baby"
+]
+},
+{
+"k": "c97",
+"name": "The Book of Sin",
+"n": 97,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 4,
+"pools": [
+"treasure",
+"devil",
+"library"
+]
+},
+{
+"k": "c102",
+"name": "Mom's Bottle of Pills",
+"n": 102,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"treasure",
+"shop",
+"crane",
+"misc"
+]
+},
+{
+"k": "c105",
+"name": "The D6",
+"n": 105,
+"type": "active",
+"q": 4,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"treasure",
+"ultrasecret",
+"crane"
+]
+},
+{
+"k": "c107",
+"name": "The Pinking Shears",
+"n": 107,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 4,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c108",
+"name": "The Wafer",
+"n": 108,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"angel"
+]
+},
+{
+"k": "c110",
+"name": "Mom's Contacts",
+"n": 110,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret",
+"misc"
+]
+},
+{
+"k": "c111",
+"name": "The Bean",
+"n": 111,
+"type": "active",
+"q": 0,
+"dlc": 0,
+"rc": 1,
+"pools": [
+"treasure",
+"misc"
+]
+},
+{
+"k": "c112",
+"name": "Guardian Angel",
+"n": 112,
+"type": "familiar",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"angel",
+"baby"
+]
+},
+{
+"k": "c113",
+"name": "Demon Baby",
+"n": 113,
+"type": "familiar",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"devil",
+"baby"
+]
+},
+{
+"k": "c114",
+"name": "Mom's Knife",
+"n": 114,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"devil",
+"misc"
+]
+},
+{
+"k": "c115",
+"name": "Ouija Board",
+"n": 115,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"devil"
+]
+},
+{
+"k": "c116",
+"name": "9 Volt",
+"n": 116,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"shop",
+"crane",
+"misc"
+]
+},
+{
+"k": "c117",
+"name": "Dead Bird",
+"n": 117,
+"type": "familiar",
+"q": 0,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"baby"
+]
+},
+{
+"k": "c118",
+"name": "Brimstone",
+"n": 118,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c123",
+"name": "Monster Manual",
+"n": 123,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"treasure",
+"devil",
+"library"
+]
+},
+{
+"k": "c124",
+"name": "Dead Sea Scrolls",
+"n": 124,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure",
+"angel"
+]
+},
+{
+"k": "c127",
+"name": "Forget Me Now",
+"n": 127,
+"type": "active",
+"q": 3,
+"dlc": 0,
+"rc": "once",
+"pools": [
+"treasure",
+"devil",
+"secret",
+"misc"
+]
+},
+{
+"k": "c128",
+"name": "Forever Alone",
+"n": 128,
+"type": "familiar",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"baby",
+"misc"
+]
+},
+{
+"k": "c132",
+"name": "A Lump of Coal",
+"n": 132,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"misc"
+]
+},
+{
+"k": "c133",
+"name": "Guppy's Paw",
+"n": 133,
+"type": "active",
+"q": 3,
+"dlc": 0,
+"rc": "inf",
+"pools": [
+"devil",
+"curse",
+"redchest"
+]
+},
+{
+"k": "c134",
+"name": "Guppy's Tail",
+"n": 134,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"devil",
+"curse",
+"redchest"
+]
+},
+{
+"k": "c136",
+"name": "Best Friend",
+"n": 136,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 3,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c139",
+"name": "Mom's Purse",
+"n": 139,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"shop",
+"misc"
+]
+},
+{
+"k": "c144",
+"name": "Bum Friend",
+"n": 144,
+"type": "familiar",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"baby",
+"misc"
+]
+},
+{
+"k": "c145",
+"name": "Guppy's Head",
+"n": 145,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 1,
+"pools": [
+"devil",
+"curse",
+"redchest"
+]
+},
+{
+"k": "c147",
+"name": "Notched Axe",
+"n": 147,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": "inf",
+"pools": [
+"shop",
+"crane"
+]
+},
+{
+"k": "c149",
+"name": "Ipecac",
+"n": 149,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c153",
+"name": "Mutant Spider",
+"n": 153,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c158",
+"name": "Crystal Ball",
+"n": 158,
+"type": "active",
+"q": 3,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"misc"
+]
+},
+{
+"k": "c159",
+"name": "Spirit of the Night",
+"n": 159,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"devil",
+"ultrasecret",
+"misc"
+]
+},
+{
+"k": "c164",
+"name": "The Candle",
+"n": 164,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": "4s",
+"pools": [
+"shop"
+]
+},
+{
+"k": "c165",
+"name": "Cat-o-nine-tails",
+"n": 165,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"boss"
+]
+},
+{
+"k": "c166",
+"name": "D20",
+"n": 166,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"treasure",
+"ultrasecret",
+"crane"
+]
+},
+{
+"k": "c167",
+"name": "Harlequin Baby",
+"n": 167,
+"type": "familiar",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret",
+"baby"
+]
+},
+{
+"k": "c168",
+"name": "Epic Fetus",
+"n": 168,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"secret"
+]
+},
+{
+"k": "c169",
+"name": "Polyphemus",
+"n": 169,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c170",
+"name": "Daddy Longlegs",
+"n": 170,
+"type": "familiar",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"baby"
+]
+},
+{
+"k": "c171",
+"name": "Spider Butt",
+"n": 171,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c172",
+"name": "Sacrificial Dagger",
+"n": 172,
+"type": "familiar",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"devil",
+"baby"
+]
+},
+{
+"k": "c174",
+"name": "Rainbow Baby",
+"n": 174,
+"type": "familiar",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"baby"
+]
+},
+{
+"k": "c179",
+"name": "Fate",
+"n": 179,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"goldchest"
+]
+},
+{
+"k": "c181",
+"name": "White Pony",
+"n": 181,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"misc"
+]
+},
+{
+"k": "c182",
+"name": "Sacred Heart",
+"n": 182,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"angel",
+"ultrasecret"
+]
+},
+{
+"k": "c184",
+"name": "Holy Grail",
+"n": 184,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c187",
+"name": "Guppy's Hairball",
+"n": 187,
+"type": "familiar",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"devil"
+]
+},
+{
+"k": "c188",
+"name": "Abel",
+"n": 188,
+"type": "familiar",
+"q": 0,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"baby"
+]
+},
+{
+"k": "c191",
+"name": "3 Dollar Bill",
+"n": 191,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c192",
+"name": "Telepathy For Dummies",
+"n": 192,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure",
+"library"
+]
+},
+{
+"k": "c202",
+"name": "Midas' Touch",
+"n": 202,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c205",
+"name": "Sharp Plug",
+"n": 205,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"shop",
+"misc"
+]
+},
+{
+"k": "c210",
+"name": "Gnawed Leaf",
+"n": 210,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c212",
+"name": "Guppy's Collar",
+"n": 212,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"devil",
+"curse",
+"redchest",
+"crane"
+]
+},
+{
+"k": "c217",
+"name": "Mom's Wig",
+"n": 217,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"misc"
+]
+},
+{
+"k": "c221",
+"name": "Rubber Cement",
+"n": 221,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c223",
+"name": "Pyromaniac",
+"n": 223,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c224",
+"name": "Cricket's Body",
+"n": 224,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c225",
+"name": "Gimpy",
+"n": 225,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"devil",
+"curse",
+"misc"
+]
+},
+{
+"k": "c227",
+"name": "Piggy Bank",
+"n": 227,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"shop",
+"crane"
+]
+},
+{
+"k": "c228",
+"name": "Mom's Perfume",
+"n": 228,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"misc"
+]
+},
+{
+"k": "c230",
+"name": "Abaddon",
+"n": 230,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"devil",
+"ultrasecret",
+"misc"
+]
+},
+{
+"k": "c232",
+"name": "Stop Watch",
+"n": 232,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"shop",
+"crane"
+]
+},
+{
+"k": "c240",
+"name": "Experimental Treatment",
+"n": 240,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"boss",
+"misc"
+]
+},
+{
+"k": "c245",
+"name": "20/20",
+"n": 245,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c248",
+"name": "Hive Mind",
+"n": 248,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"shop"
+]
+},
+{
+"k": "c257",
+"name": "Fire Mind",
+"n": 257,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c259",
+"name": "Dark Matter",
+"n": 259,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"devil",
+"misc"
+]
+},
+{
+"k": "c261",
+"name": "Proptosis",
+"n": 261,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret"
+]
+},
+{
+"k": "c269",
+"name": "Headless Baby",
+"n": 269,
+"type": "familiar",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"devil",
+"baby"
+]
+},
+{
+"k": "c273",
+"name": "Bob's Brain",
+"n": 273,
+"type": "familiar",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"baby",
+"misc"
+]
+},
+{
+"k": "c275",
+"name": "Lil Brimstone",
+"n": 275,
+"type": "familiar",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"devil",
+"baby"
+]
+},
+{
+"k": "c276",
+"name": "Isaac's Heart",
+"n": 276,
+"type": "familiar",
+"q": 0,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret"
+]
+},
+{
+"k": "c277",
+"name": "Lil Haunt",
+"n": 277,
+"type": "familiar",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"baby"
+]
+},
+{
+"k": "c278",
+"name": "Dark Bum",
+"n": 278,
+"type": "familiar",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"devil",
+"baby",
+"misc"
+]
+},
+{
+"k": "c282",
+"name": "How to Jump",
+"n": 282,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": "inf",
+"pools": [
+"treasure",
+"library"
+]
+},
+{
+"k": "c283",
+"name": "D100",
+"n": 283,
+"type": "active",
+"q": 3,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c284",
+"name": "D4",
+"n": 284,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c285",
+"name": "D10",
+"n": 285,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c286",
+"name": "Blank Card",
+"n": 286,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": "var",
+"pools": [
+"shop",
+"secret"
+]
+},
+{
+"k": "c287",
+"name": "Book of Secrets",
+"n": 287,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"treasure",
+"secret",
+"library"
+]
+},
+{
+"k": "c288",
+"name": "Box of Spiders",
+"n": 288,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 2,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c289",
+"name": "Red Candle",
+"n": 289,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": "4s",
+"pools": [
+"shop",
+"ultrasecret"
+]
+},
+{
+"k": "c292",
+"name": "Satanic Bible",
+"n": 292,
+"type": "active",
+"q": 4,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"treasure",
+"devil",
+"library"
+]
+},
+{
+"k": "c295",
+"name": "Magic Fingers",
+"n": 295,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": "inf",
+"pools": [
+"treasure",
+"shop"
+]
+},
+{
+"k": "c297",
+"name": "Pandora's Box",
+"n": 297,
+"type": "active",
+"q": 2,
+"dlc": 0,
+"rc": "once",
+"pools": [
+"shop",
+"redchest"
+]
+},
+{
+"k": "c298",
+"name": "Unicorn Stump",
+"n": 298,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 1,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c299",
+"name": "Taurus",
+"n": 299,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c300",
+"name": "Aries",
+"n": 300,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c301",
+"name": "Cancer",
+"n": 301,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c304",
+"name": "Libra",
+"n": 304,
+"type": "passive",
+"q": 1,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c309",
+"name": "Pisces",
+"n": 309,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c310",
+"name": "Eve's Mascara",
+"n": 310,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c313",
+"name": "Holy Mantle",
+"n": 313,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"angel"
+]
+},
+{
+"k": "c316",
+"name": "Cursed Eye",
+"n": 316,
+"type": "passive",
+"q": 0,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"secret",
+"redchest"
+]
+},
+{
+"k": "c319",
+"name": "Cain's Other Eye",
+"n": 319,
+"type": "familiar",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c323",
+"name": "Isaac's Tears",
+"n": 323,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": 6,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c326",
+"name": "Breath of Life",
+"n": 326,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": "3s",
+"pools": [
+"angel"
+]
+},
+{
+"k": "c330",
+"name": "Soy Milk",
+"n": 330,
+"type": "passive",
+"q": 2,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c331",
+"name": "Godhead",
+"n": 331,
+"type": "passive",
+"q": 4,
+"dlc": 0,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c334",
+"name": "The Body",
+"n": 334,
+"type": "passive",
+"q": 3,
+"dlc": 0,
+"rc": null,
+"pools": [
+"treasure",
+"angel",
+"ultrasecret"
+]
+},
+{
+"k": "c338",
+"name": "The Boomerang",
+"n": 338,
+"type": "active",
+"q": 1,
+"dlc": 0,
+"rc": "2s",
+"pools": [
+"shop",
+"crane"
+]
+},
+{
+"k": "c349",
+"name": "Wooden Nickel",
+"n": 349,
+"type": "active",
+"q": 1,
+"dlc": 1,
+"rc": 1,
+"pools": [
+"shop",
+"misc"
+]
+},
+{
+"k": "c351",
+"name": "Mega Bean",
+"n": 351,
+"type": "active",
+"q": 1,
+"dlc": 1,
+"rc": 3,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c352",
+"name": "Glass Cannon",
+"n": 352,
+"type": "active",
+"q": 1,
+"dlc": 1,
+"rc": "4s",
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c353",
+"name": "Bomber Boy",
+"n": 353,
+"type": "familiar",
+"q": 2,
+"dlc": 1,
+"rc": null,
+"pools": [
+"treasure",
+"misc"
+]
+},
+{
+"k": "c357",
+"name": "Box of Friends",
+"n": 357,
+"type": "active",
+"q": 1,
+"dlc": 1,
+"rc": 3,
+"pools": [
+"shop",
+"crane"
+]
+},
+{
+"k": "c360",
+"name": "Incubus",
+"n": 360,
+"type": "familiar",
+"q": 4,
+"dlc": 1,
+"rc": null,
+"pools": [
+"devil",
+"baby"
+]
+},
+{
+"k": "c362",
+"name": "Lil Chest",
+"n": 362,
+"type": "familiar",
+"q": 2,
+"dlc": 1,
+"rc": null,
+"pools": [
+"treasure",
+"crane",
+"misc"
+]
+},
+{
+"k": "c363",
+"name": "Sworn Protector",
+"n": 363,
+"type": "familiar",
+"q": 3,
+"dlc": 1,
+"rc": null,
+"pools": [
+"angel",
+"baby"
+]
+},
+{
+"k": "c373",
+"name": "Dead Eye",
+"n": 373,
+"type": "passive",
+"q": 3,
+"dlc": 1,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret"
+]
+},
+{
+"k": "c384",
+"name": "Lil Gurdy",
+"n": 384,
+"type": "familiar",
+"q": 2,
+"dlc": 1,
+"rc": null,
+"pools": [
+"treasure",
+"baby"
+]
+},
+{
+"k": "c386",
+"name": "D12",
+"n": 386,
+"type": "active",
+"q": 1,
+"dlc": 1,
+"rc": 3,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c395",
+"name": "Tech X",
+"n": 395,
+"type": "passive",
+"q": 4,
+"dlc": 1,
+"rc": null,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c397",
+"name": "Tractor Beam",
+"n": 397,
+"type": "passive",
+"q": 3,
+"dlc": 1,
+"rc": null,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c399",
+"name": "Maw Of The Void",
+"n": 399,
+"type": "passive",
+"q": 3,
+"dlc": 1,
+"rc": null,
+"pools": [
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c400",
+"name": "Spear Of Destiny",
+"n": 400,
+"type": "familiar",
+"q": 2,
+"dlc": 1,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c406",
+"name": "D8",
+"n": 406,
+"type": "active",
+"q": 2,
+"dlc": 1,
+"rc": 4,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c412",
+"name": "Cambion Conception",
+"n": 412,
+"type": "familiar",
+"q": 2,
+"dlc": 1,
+"rc": null,
+"pools": [
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c413",
+"name": "Immaculate Conception",
+"n": 413,
+"type": "familiar",
+"q": 1,
+"dlc": 1,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c415",
+"name": "Crown Of Light",
+"n": 415,
+"type": "passive",
+"q": 4,
+"dlc": 1,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c421",
+"name": "Kidney Bean",
+"n": 421,
+"type": "active",
+"q": 1,
+"dlc": 1,
+"rc": 1,
+"pools": [
+"treasure",
+"ultrasecret"
+]
+},
+{
+"k": "c422",
+"name": "Glowing Hourglass",
+"n": 422,
+"type": "active",
+"q": 3,
+"dlc": 1,
+"rc": "inf",
+"pools": [
+"treasure",
+"shop",
+"crane"
+]
+},
+{
+"k": "c434",
+"name": "Jar of Flies",
+"n": 434,
+"type": "active",
+"q": 2,
+"dlc": 1,
+"rc": "inf",
+"pools": [
+"shop"
+]
+},
+{
+"k": "c437",
+"name": "D7",
+"n": 437,
+"type": "active",
+"q": 1,
+"dlc": 1,
+"rc": 3,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c439",
+"name": "Mom's Box",
+"n": 439,
+"type": "passive",
+"q": 2,
+"dlc": 1,
+"rc": null,
+"pools": [
+"shop",
+"crane",
+"misc"
+]
+},
+{
+"k": "c441",
+"name": "Mega Blast",
+"n": 441,
+"type": "active",
+"q": 4,
+"dlc": 1,
+"rc": 12,
+"pools": [
+"devil"
+]
+},
+{
+"k": "c451",
+"name": "Tarot Cloth",
+"n": 451,
+"type": "passive",
+"q": 2,
+"dlc": 2,
+"rc": null,
+"pools": [
+"shop",
+"curse",
+"crane"
+]
+},
+{
+"k": "c455",
+"name": "Dad's Lost Coin",
+"n": 455,
+"type": "passive",
+"q": 1,
+"dlc": 2,
+"rc": null,
+"pools": [
+"boss",
+"goldchest",
+"misc"
+]
+},
+{
+"k": "c459",
+"name": "Sinus Infection",
+"n": 459,
+"type": "passive",
+"q": 3,
+"dlc": 2,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c462",
+"name": "Eye of Belial",
+"n": 462,
+"type": "passive",
+"q": 3,
+"dlc": 2,
+"rc": null,
+"pools": [
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c472",
+"name": "King Baby",
+"n": 472,
+"type": "familiar",
+"q": 1,
+"dlc": 2,
+"rc": null,
+"pools": [
+"shop",
+"baby"
+]
+},
+{
+"k": "c475",
+"name": "Plan C",
+"n": 475,
+"type": "active",
+"q": 0,
+"dlc": 2,
+"rc": "once",
+"pools": [
+"shop",
+"devil",
+"curse",
+"redchest",
+"ultrasecret",
+"misc"
+]
+},
+{
+"k": "c476",
+"name": "D1",
+"n": 476,
+"type": "active",
+"q": 2,
+"dlc": 2,
+"rc": 4,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c477",
+"name": "Void",
+"n": 477,
+"type": "active",
+"q": 4,
+"dlc": 2,
+"rc": 6,
+"pools": [
+"devil",
+"angel"
+]
+},
+{
+"k": "c480",
+"name": "Compost",
+"n": 480,
+"type": "active",
+"q": 1,
+"dlc": 2,
+"rc": 2,
+"pools": [
+"shop",
+"misc"
+]
+},
+{
+"k": "c482",
+"name": "Clicker",
+"n": 482,
+"type": "active",
+"q": 0,
+"dlc": 2,
+"rc": 6,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c483",
+"name": "Mama Mega!",
+"n": 483,
+"type": "active",
+"q": 3,
+"dlc": 2,
+"rc": "once",
+"pools": [
+"shop",
+"misc"
+]
+},
+{
+"k": "c488",
+"name": "Metronome",
+"n": 488,
+"type": "active",
+"q": 1,
+"dlc": 2,
+"rc": 2,
+"pools": [
+"treasure",
+"crane",
+"misc"
+]
+},
+{
+"k": "c490",
+"name": "Eden's Soul",
+"n": 490,
+"type": "active",
+"q": 3,
+"dlc": 2,
+"rc": 12,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c491",
+"name": "Acid Baby",
+"n": 491,
+"type": "familiar",
+"q": 2,
+"dlc": 2,
+"rc": null,
+"pools": [
+"treasure",
+"baby"
+]
+},
+{
+"k": "c496",
+"name": "Euthanasia",
+"n": 496,
+"type": "passive",
+"q": 3,
+"dlc": 2,
+"rc": null,
+"pools": [
+"treasure",
+"curse",
+"misc"
+]
+},
+{
+"k": "c510",
+"name": "Delirious",
+"n": 510,
+"type": "active",
+"q": 1,
+"dlc": 2,
+"rc": 12,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c512",
+"name": "Black Hole",
+"n": 512,
+"type": "active",
+"q": 1,
+"dlc": 2,
+"rc": 4,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c520",
+"name": "Jumper Cables",
+"n": 520,
+"type": "passive",
+"q": 3,
+"dlc": 2,
+"rc": null,
+"pools": [
+"shop",
+"misc"
+]
+},
+{
+"k": "c529",
+"name": "Pop!",
+"n": 529,
+"type": "passive",
+"q": 1,
+"dlc": 2,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c531",
+"name": "Haemolacria",
+"n": 531,
+"type": "passive",
+"q": 4,
+"dlc": 2,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret"
+]
+},
+{
+"k": "c534",
+"name": "Schoolbag",
+"n": 534,
+"type": "passive",
+"q": 3,
+"dlc": 2,
+"rc": null,
+"pools": [
+"shop",
+"goldchest"
+]
+},
+{
+"k": "c543",
+"name": "Hallowed Ground",
+"n": 543,
+"type": "passive",
+"q": 1,
+"dlc": 2,
+"rc": null,
+"pools": [
+"treasure",
+"angel"
+]
+},
+{
+"k": "c545",
+"name": "Book of the Dead",
+"n": 545,
+"type": "active",
+"q": 3,
+"dlc": 2,
+"rc": 6,
+"pools": [
+"treasure",
+"devil",
+"library"
+]
+},
+{
+"k": "c549",
+"name": "Brittle Bones",
+"n": 549,
+"type": "passive",
+"q": 3,
+"dlc": 2,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c552",
+"name": "Mom's Shovel",
+"n": 552,
+"type": "active",
+"q": 4,
+"dlc": 2,
+"rc": 4,
+"pools": [
+"misc"
+]
+},
+{
+"k": "c554",
+"name": "2Spooky",
+"n": 554,
+"type": "passive",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c556",
+"name": "Sulfur",
+"n": 556,
+"type": "active",
+"q": 3,
+"dlc": 3,
+"rc": 3,
+"pools": [
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c557",
+"name": "Fortune Cookie",
+"n": 557,
+"type": "active",
+"q": 2,
+"dlc": 3,
+"rc": 2,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c558",
+"name": "Eye Sore",
+"n": 558,
+"type": "passive",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c561",
+"name": "Almond Milk",
+"n": 561,
+"type": "passive",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c562",
+"name": "Rock Bottom",
+"n": 562,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c565",
+"name": "Blood Puppy",
+"n": 565,
+"type": "familiar",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"curse",
+"redchest",
+"ultrasecret"
+]
+},
+{
+"k": "c566",
+"name": "Dream Catcher",
+"n": 566,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"shop"
+]
+},
+{
+"k": "c567",
+"name": "Paschal Candle",
+"n": 567,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c568",
+"name": "Divine Intervention",
+"n": 568,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c569",
+"name": "Blood Oath",
+"n": 569,
+"type": "passive",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"curse"
+]
+},
+{
+"k": "c571",
+"name": "Orphan Socks",
+"n": 571,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"secret",
+"goldchest"
+]
+},
+{
+"k": "c572",
+"name": "Eye of the Occult",
+"n": 572,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c573",
+"name": "Immaculate Heart",
+"n": 573,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel",
+"ultrasecret"
+]
+},
+{
+"k": "c574",
+"name": "Monstrance",
+"n": 574,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c576",
+"name": "Dirty Mind",
+"n": 576,
+"type": "familiar",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"misc"
+]
+},
+{
+"k": "c579",
+"name": "Spirit Sword",
+"n": 579,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c580",
+"name": "Red Key",
+"n": 580,
+"type": "active",
+"q": 3,
+"dlc": 3,
+"rc": 4,
+"pools": [
+"secret",
+"curse",
+"redchest",
+"ultrasecret",
+"misc"
+]
+},
+{
+"k": "c584",
+"name": "Book of Virtues",
+"n": 584,
+"type": "active",
+"q": 3,
+"dlc": 3,
+"rc": 4,
+"pools": [
+"angel",
+"library"
+]
+},
+{
+"k": "c585",
+"name": "Alabaster Box",
+"n": 585,
+"type": "active",
+"q": 2,
+"dlc": 3,
+"rc": 12,
+"pools": [
+"shop"
+]
+},
+{
+"k": "c586",
+"name": "The Stairway",
+"n": 586,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c588",
+"name": "Sol",
+"n": 588,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"planetarium"
+]
+},
+{
+"k": "c589",
+"name": "Luna",
+"n": 589,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"planetarium"
+]
+},
+{
+"k": "c590",
+"name": "Mercurius",
+"n": 590,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"planetarium"
+]
+},
+{
+"k": "c591",
+"name": "Venus",
+"n": 591,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"planetarium"
+]
+},
+{
+"k": "c592",
+"name": "Terra",
+"n": 592,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"planetarium"
+]
+},
+{
+"k": "c593",
+"name": "Mars",
+"n": 593,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"planetarium"
+]
+},
+{
+"k": "c594",
+"name": "Jupiter",
+"n": 594,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"planetarium"
+]
+},
+{
+"k": "c595",
+"name": "Saturnus",
+"n": 595,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"planetarium"
+]
+},
+{
+"k": "c596",
+"name": "Uranus",
+"n": 596,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"planetarium"
+]
+},
+{
+"k": "c597",
+"name": "Neptunus",
+"n": 597,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"planetarium"
+]
+},
+{
+"k": "c598",
+"name": "Pluto",
+"n": 598,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"planetarium"
+]
+},
+{
+"k": "c599",
+"name": "Voodoo Head",
+"n": 599,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"shop",
+"crane"
+]
+},
+{
+"k": "c601",
+"name": "Act of Contrition",
+"n": 601,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c602",
+"name": "Member Card",
+"n": 602,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"shop"
+]
+},
+{
+"k": "c606",
+"name": "Ocular Rift",
+"n": 606,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c616",
+"name": "Bird's Eye",
+"n": 616,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret"
+]
+},
+{
+"k": "c617",
+"name": "Lodestone",
+"n": 617,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c619",
+"name": "Birthright",
+"n": 619,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"shop"
+]
+},
+{
+"k": "c621",
+"name": "Red Stew",
+"n": 621,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"shop",
+"ultrasecret"
+]
+},
+{
+"k": "c629",
+"name": "Bot Fly",
+"n": 629,
+"type": "familiar",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"crane",
+"baby",
+"misc"
+]
+},
+{
+"k": "c634",
+"name": "Purgatory",
+"n": 634,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"angel"
+]
+},
+{
+"k": "c636",
+"name": "R Key",
+"n": 636,
+"type": "active",
+"q": 4,
+"dlc": 3,
+"rc": "once",
+"pools": [
+"secret"
+]
+},
+{
+"k": "c643",
+"name": "Revelation",
+"n": 643,
+"type": "passive",
+"q": 4,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c644",
+"name": "Consolation Prize",
+"n": 644,
+"type": "passive",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"boss",
+"goldchest",
+"crane"
+]
+},
+{
+"k": "c646",
+"name": "Brimstone Bombs",
+"n": 646,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"misc"
+]
+},
+{
+"k": "c647",
+"name": "4.5 Volt",
+"n": 647,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"shop",
+"misc"
+]
+},
+{
+"k": "c649",
+"name": "Fruity Plum",
+"n": 649,
+"type": "familiar",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"crane",
+"baby",
+"misc"
+]
+},
+{
+"k": "c651",
+"name": "Star of Bethlehem",
+"n": 651,
+"type": "familiar",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c652",
+"name": "Cube Baby",
+"n": 652,
+"type": "familiar",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c654",
+"name": "False PHD",
+"n": 654,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"curse",
+"redchest",
+"ultrasecret"
+]
+},
+{
+"k": "c658",
+"name": "Giant Cell",
+"n": 658,
+"type": "familiar",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c661",
+"name": "Quints",
+"n": 661,
+"type": "familiar",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"baby"
+]
+},
+{
+"k": "c664",
+"name": "Binge Eater",
+"n": 664,
+"type": "passive",
+"q": 4,
+"dlc": 3,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c665",
+"name": "Guppy's Eye",
+"n": 665,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"curse",
+"redchest"
+]
+},
+{
+"k": "c667",
+"name": "Strawman",
+"n": 667,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c669",
+"name": "Sausage",
+"n": 669,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c671",
+"name": "Candy Heart",
+"n": 671,
+"type": "passive",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret"
+]
+},
+{
+"k": "c672",
+"name": "A Pound of Flesh",
+"n": 672,
+"type": "passive",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"misc"
+]
+},
+{
+"k": "c674",
+"name": "Spirit Shackles",
+"n": 674,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c677",
+"name": "Astral Projection",
+"n": 677,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"secret"
+]
+},
+{
+"k": "c679",
+"name": "Lil Abaddon",
+"n": 679,
+"type": "familiar",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"baby"
+]
+},
+{
+"k": "c681",
+"name": "Lil Portal",
+"n": 681,
+"type": "familiar",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c683",
+"name": "Bone Spurs",
+"n": 683,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c685",
+"name": "Jar of Wisps",
+"n": 685,
+"type": "active",
+"q": 2,
+"dlc": 3,
+"rc": 12,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c686",
+"name": "Soul Locket",
+"n": 686,
+"type": "passive",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c687",
+"name": "Friend Finder",
+"n": 687,
+"type": "active",
+"q": 3,
+"dlc": 3,
+"rc": 4,
+"pools": [
+"treasure",
+"crane"
+]
+},
+{
+"k": "c688",
+"name": "Inner Child",
+"n": 688,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c689",
+"name": "Glitched Crown",
+"n": 689,
+"type": "passive",
+"q": 4,
+"dlc": 3,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c691",
+"name": "Sacred Orb",
+"n": 691,
+"type": "passive",
+"q": 4,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel",
+"secret"
+]
+},
+{
+"k": "c692",
+"name": "Sanguine Bond",
+"n": 692,
+"type": "passive",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"curse",
+"ultrasecret"
+]
+},
+{
+"k": "c693",
+"name": "The Swarm",
+"n": 693,
+"type": "familiar",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"misc"
+]
+},
+{
+"k": "c694",
+"name": "Heartbreak",
+"n": 694,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"curse",
+"ultrasecret"
+]
+},
+{
+"k": "c696",
+"name": "Salvation",
+"n": 696,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"angel"
+]
+},
+{
+"k": "c698",
+"name": "Twisted Pair",
+"n": 698,
+"type": "familiar",
+"q": 4,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"baby"
+]
+},
+{
+"k": "c699",
+"name": "Azazel's Rage",
+"n": 699,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil"
+]
+},
+{
+"k": "c700",
+"name": "Echo Chamber",
+"n": 700,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"secret",
+"ultrasecret"
+]
+},
+{
+"k": "c701",
+"name": "Isaac's Tomb",
+"n": 701,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c702",
+"name": "Vengeful Spirit",
+"n": 702,
+"type": "familiar",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"devil",
+"curse",
+"ultrasecret"
+]
+},
+{
+"k": "c703",
+"name": "Esau Jr.",
+"n": 703,
+"type": "active",
+"q": 2,
+"dlc": 3,
+"rc": 1,
+"pools": [
+"treasure",
+"secret",
+"ultrasecret"
+]
+},
+{
+"k": "c704",
+"name": "Berserk!",
+"n": 704,
+"type": "active",
+"q": 2,
+"dlc": 3,
+"rc": "var",
+"pools": [
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c705",
+"name": "Dark Arts",
+"n": 705,
+"type": "active",
+"q": 2,
+"dlc": 3,
+"rc": "6s",
+"pools": [
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c706",
+"name": "Abyss",
+"n": 706,
+"type": "active",
+"q": 4,
+"dlc": 3,
+"rc": 4,
+"pools": [
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c708",
+"name": "Stapler",
+"n": 708,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"boss",
+"goldchest"
+]
+},
+{
+"k": "c710",
+"name": "Bag of Crafting",
+"n": 710,
+"type": "active",
+"q": 3,
+"dlc": 3,
+"rc": "inf",
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c711",
+"name": "Flip",
+"n": 711,
+"type": "active",
+"q": 4,
+"dlc": 3,
+"rc": 6,
+"pools": [
+"secret",
+"curse",
+"ultrasecret"
+]
+},
+{
+"k": "c712",
+"name": "Lemegeton",
+"n": 712,
+"type": "active",
+"q": 3,
+"dlc": 3,
+"rc": 6,
+"pools": [
+"devil",
+"library"
+]
+},
+{
+"k": "c713",
+"name": "Sumptorium",
+"n": 713,
+"type": "active",
+"q": 3,
+"dlc": 3,
+"rc": "10s",
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c715",
+"name": "Hold",
+"n": 715,
+"type": "active",
+"q": 0,
+"dlc": 3,
+"rc": "inf",
+"pools": [
+"misc"
+]
+},
+{
+"k": "c716",
+"name": "Keeper's Sack",
+"n": 716,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"shop",
+"secret"
+]
+},
+{
+"k": "c721",
+"name": "TMTRAINER",
+"n": 721,
+"type": "passive",
+"q": 0,
+"dlc": 3,
+"rc": null,
+"pools": [
+"secret"
+]
+},
+{
+"k": "c722",
+"name": "Anima Sola",
+"n": 722,
+"type": "active",
+"q": 3,
+"dlc": 3,
+"rc": "15s",
+"pools": [
+"treasure"
+]
+},
+{
+"k": "c723",
+"name": "Spindown Dice",
+"n": 723,
+"type": "active",
+"q": 4,
+"dlc": 3,
+"rc": 6,
+"pools": [
+"treasure",
+"secret",
+"crane"
+]
+},
+{
+"k": "c726",
+"name": "Hemoptysis",
+"n": 726,
+"type": "passive",
+"q": 1,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"ultrasecret"
+]
+},
+{
+"k": "c727",
+"name": "Ghost Bombs",
+"n": 727,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"treasure",
+"misc"
+]
+},
+{
+"k": "c728",
+"name": "Gello",
+"n": 728,
+"type": "active",
+"q": 3,
+"dlc": 3,
+"rc": 2,
+"pools": [
+"treasure",
+"devil",
+"ultrasecret"
+]
+},
+{
+"k": "c730",
+"name": "Glass Eye",
+"n": 730,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"boss",
+"goldchest",
+"crane"
+]
+},
+{
+"k": "c731",
+"name": "Stye",
+"n": 731,
+"type": "passive",
+"q": 2,
+"dlc": 3,
+"rc": null,
+"pools": [
+"boss"
+]
+},
+{
+"k": "c732",
+"name": "Mom's Ring",
+"n": 732,
+"type": "passive",
+"q": 3,
+"dlc": 3,
+"rc": null,
+"pools": [
+"goldchest",
+"misc"
+]
+},
+{
+"k": "t1",
+"name": "Swallowed Penny",
+"n": 1,
+"type": "trinket",
+"q": null,
+"dlc": 0,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t2",
+"name": "Petrified Poop",
+"n": 2,
+"type": "trinket",
+"q": null,
+"dlc": 0,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t7",
+"name": "Rosary Bead",
+"n": 7,
+"type": "trinket",
+"q": null,
+"dlc": 0,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t16",
+"name": "Mom's Toenail",
+"n": 16,
+"type": "trinket",
+"q": null,
+"dlc": 0,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t22",
+"name": "Daemon's Tail",
+"n": 22,
+"type": "trinket",
+"q": null,
+"dlc": 0,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t59",
+"name": "Cain's Eye",
+"n": 59,
+"type": "trinket",
+"q": null,
+"dlc": 0,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t61",
+"name": "The Left Hand",
+"n": 61,
+"type": "trinket",
+"q": null,
+"dlc": 0,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t72",
+"name": "Watch Battery",
+"n": 72,
+"type": "trinket",
+"q": null,
+"dlc": 1,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t80",
+"name": "Black Feather",
+"n": 80,
+"type": "trinket",
+"q": null,
+"dlc": 1,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t81",
+"name": "Blind Rage",
+"n": 81,
+"type": "trinket",
+"q": null,
+"dlc": 1,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t83",
+"name": "Store Key",
+"n": 83,
+"type": "trinket",
+"q": null,
+"dlc": 1,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t85",
+"name": "Karma",
+"n": 85,
+"type": "trinket",
+"q": null,
+"dlc": 1,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t86",
+"name": "Lil Larva",
+"n": 86,
+"type": "trinket",
+"q": null,
+"dlc": 1,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t90",
+"name": "Brown Cap",
+"n": 90,
+"type": "trinket",
+"q": null,
+"dlc": 1,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t96",
+"name": "Ouroboros Worm",
+"n": 96,
+"type": "trinket",
+"q": null,
+"dlc": 2,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t97",
+"name": "Tonsil",
+"n": 97,
+"type": "trinket",
+"q": null,
+"dlc": 2,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t101",
+"name": "Dim Bulb",
+"n": 101,
+"type": "trinket",
+"q": null,
+"dlc": 2,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t105",
+"name": "Bag Lunch",
+"n": 105,
+"type": "trinket",
+"q": null,
+"dlc": 2,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t107",
+"name": "Crow Heart",
+"n": 107,
+"type": "trinket",
+"q": null,
+"dlc": 2,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t120",
+"name": "Hairpin",
+"n": 120,
+"type": "trinket",
+"q": null,
+"dlc": 2,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t121",
+"name": "Wooden Cross",
+"n": 121,
+"type": "trinket",
+"q": null,
+"dlc": 2,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t129",
+"name": "Jawbreaker",
+"n": 129,
+"type": "trinket",
+"q": null,
+"dlc": 3,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t139",
+"name": "Teardrop Charm",
+"n": 139,
+"type": "trinket",
+"q": null,
+"dlc": 3,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t156",
+"name": "Mother's Kiss",
+"n": 156,
+"type": "trinket",
+"q": null,
+"dlc": 3,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t159",
+"name": "Gilded Key",
+"n": 159,
+"type": "trinket",
+"q": null,
+"dlc": 3,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t160",
+"name": "Lucky Sack",
+"n": 160,
+"type": "trinket",
+"q": null,
+"dlc": 3,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t161",
+"name": "Wicked Crown",
+"n": 161,
+"type": "trinket",
+"q": null,
+"dlc": 3,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t168",
+"name": "Hollow Heart",
+"n": 168,
+"type": "trinket",
+"q": null,
+"dlc": 3,
+"rc": null,
+"pools": [
+"trinket"
+]
+},
+{
+"k": "t172",
+"name": "Cursed Penny",
+"n": 172,
+"type": "trinket",
+"q": null,
+"dlc": 3,
+"rc": null,
+"pools": [
+"trinket"
+]
+}
+]

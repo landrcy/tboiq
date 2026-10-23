@@ -1,0 +1,349 @@
+c1|Boosts fire rate.|
+c2|Fires three tears at once, but shoots slower.|
+c3|Tears home in on enemies.|
+c4|Damage up, then multiplied by 1.5.|
+c5|Boomerang-style tears; range and shot speed up.|
+c6|Big fire rate boost, but range shrinks a lot.|
+c7|Raises damage by 1 and turns tears to blood.|
+c8|Follower that shoots tears at enemies.|
+c9|Makes most flies harmless or less dangerous.|
+c10|Two orbiting flies that block shots and hurt flies.|
+c11|Grants an extra life: respawn in the previous room at full health.|
+c12|Small boost to nearly every stat, plus one heart container and a full heal.|
+c14|Faster, with more range.|
+c16|Two heart containers and a full heal.|
+c17|Gives 99 keys.|
+c20|Permanent flight.|Beat Mom's Heart three times
+c21|Shows where the special rooms are (not the secret ones).|
+c22|Adds a heart container and heals one extra heart.|
+c23|Adds a heart container and heals one extra heart.|
+c24|Adds a heart container and heals one extra heart.|
+c25|Adds a heart container and heals one extra heart.|
+c26|Adds a heart container and heals one extra heart.|
+c27|Small speed boost.|
+c28|Small speed boost.|
+c29|Range up and spawns blue flies.|
+c30|Range up; enemies that touch Isaac take damage.|
+c31|Range up and spawns a heart.|
+c32|Boosts fire rate.|Beat Mom's Heart four times
+c33|Flight for the room; instantly kills Mom and her heart, but kills Isaac against Satan.|
+c34|Damage up for the room; makes Devil/Angel Rooms likelier.|
+c35|Deals big damage to every enemy in the room.|Use XIII - Death four times
+c36|Drops a poop pile and knocks back nearby enemies.|
+c37|Plants a huge bomb that deals massive damage.|
+c38|Fires a ring of tears copying Isaac's stats.|
+c39|Petrifies every enemy in the room for a few seconds.|
+c42|Holds a poison bomb to throw in a straight line.|
+c44|Teleports Isaac to a random room on the floor.|
+c45|Heals one full red heart.|
+c46|Luck up and better odds on random events.|
+c47|Aim a crosshair; a missile lands after a short delay.|
+c49|Breathes a laser from Isaac's mouth.|
+c50|Raises damage by 1.|
+c51|Raises damage and improves Devil/Angel Room odds.|
+c52|Tears are replaced by bombs that slide forward.|
+c53|Pulls nearby pickups toward Isaac.|
+c56|Leaves a small damaging puddle.|
+c57|Orbiting fly that damages enemies.|
+c58|A temporary shield that blocks all damage in the room.|
+c65|Spawns six troll bombs around the room.|
+c66|Slows every enemy in the room for a few seconds.|
+c67|Follower that shoots tears at enemies.|
+c68|Replaces tears with an endless piercing laser.|
+c69|Charge-up shots: hold to hit harder.|
+c72|Grants soul hearts and boosts fire rate; makes the Bible appear more often.|
+c77|Brief invulnerability and speed, but no tears (touch to hurt).|
+c78|Gives a soul heart; can swap a floor's boss for a Harbinger.|Defeat a Harbinger
+c79|Soul or black heart, plus damage and speed.|
+c80|Heart and stat boost.|
+c81|Nine extra lives, at the cost of heart containers.|
+c82|Permanent flight and a bit of speed.|
+c83|Temporary demon form: breaks rocks, touches to damage.|Finish the Boss Rush as Azazel
+c84|Digs a trapdoor to the next floor.|
+c85|Gives Isaac a random card.|
+c86|A friendly Monstro leaps onto a random enemy.|Beat Chapter 1
+c92|Heart container and soul hearts.|
+c93|Isaac turns into a Pac-Man-like creature that scares enemies.|Visit 10 arcades
+c94|Follower that drops coins every couple of rooms.|
+c96|Follower that drops half-hearts every few rooms.|Defeat C.H.A.D.
+c97|Spawns a random pickup.|Defeat all seven Deadly Sins
+c102|Gives Isaac a random pill.|
+c105|Rerolls all items in the room into new ones.|Beat Isaac as ???
+c107|Splits Isaac's head from his body; both fight on their own.|
+c108|Reduces big hits down to half a heart.|
+c110|Chance for petrifying tears.|Take three Yes Mother? items in one run
+c111|Poisonous fart nearby.|
+c112|Orbiter that blocks shots and speeds up other orbiters.|Beat Satan as Magdalene
+c113|Auto-aiming familiar that shoots enemies in range.|Beat The Lamb as Azazel
+c114|Replaces tears with a thrown knife.|Beat Satan as Isaac
+c115|Spectral tears and a fire rate boost.|
+c116|Active items need one fewer charge.|
+c117|When Isaac is hit, a bird chases enemies for the room.|
+c118|Charged blood laser instead of tears.|
+c123|Summons a temporary familiar.|
+c124|Triggers a random active item effect.|
+c127|Rebuilds the floor with a new layout.|Beat Satan as ???
+c128|Fast-orbiting attack fly.|
+c132|Tears do more damage the farther they travel.|
+c133|Turns a heart container into three soul hearts.|
+c134|Room rewards are often replaced by chests.|
+c136|Drops a decoy Isaac that distracts enemies, then explodes.|
+c139|Adds a second trinket slot and drops a trinket.|
+c144|Follower that grabs coins and returns pickups.|
+c145|Spawns blue flies.|
+c147|Break rocks and open secrets by walking into them.|
+c149|Explosive, poisonous tears fired in an arc.|Beat Mom's Heart six times
+c153|Fires four tears at once.|
+c158|Reveals most of the map; drops a soul heart or a card.|
+c159|Spectral tears and flight.|
+c164|Throws a flame in a line.|
+c165|Raises damage and shot speed.|
+c166|Rerolls all pickups in the room.|Beat ??? as Isaac
+c167|Follower that fires two tears in a V.|
+c168|Tears become targeted missiles.|Complete the The Family Man challenge
+c169|Huge tears with big damage but slow fire.|
+c170|Shadow that stomps enemies now and then.|
+c171|Damages and slows all enemies; kills spawn blue spiders.|
+c172|Orbiting dagger that damages enemies.|Beat ??? as Eve
+c174|Follower that fires tears with random effects.|
+c179|Permanent flight and an eternal heart.|Beat ??? as ???
+c181|Passive flight; dashes through enemies leaving beams of light.|
+c182|Heart container, homing tears and a big damage multiplier.|
+c184|Permanent flight and a heart container.|
+c187|Swingable flail-like follower that grows as it kills.|Become Guppy
+c188|Mirrors Isaac's movement and shoots toward him.|Beat The Lamb as Cain
+c191|Tears gain a random effect every few seconds.|
+c192|Homing tears and extra range for the room.|
+c202|Enemies that touch Isaac turn to gold and drop coins when killed.|
+c205|Hurts Isaac to fully recharge his active item.|
+c210|Standing still and not shooting makes Isaac invincible.|
+c212|50% chance to revive with half a heart.|
+c217|Chance to spawn blue spiders while shooting; heals a heart.|
+c221|Tears bounce off walls and enemies.|Beat Mom's Heart twice
+c223|Immune to explosions and fire; explosions heal Isaac.|
+c224|Tears burst into smaller tears on impact; fire rate up.|
+c225|Soul hearts when hurt; kills may drop half hearts.|
+c227|Pennies for Isaac and more when he gets hit.|
+c228|Chance for fear tears and a fire rate boost.|
+c230|Converts hearts to black hearts; damage up with fear tears.|Beat ??? as Azazel
+c232|Slows every enemy and adds speed.|Donate 999 coins to the Donation Machine
+c240|Randomly boosts some stats and lowers others.|Beat Mom's Heart seven times
+c245|Two tears at once, one from each eye.|
+c248|Makes blue flies and spiders bigger and stronger.|
+c257|Flaming tears that burn enemies.|
+c259|Damage boost and fear tears.|
+c261|Tears start huge and shrink as they fly.|
+c269|Follower that leaves a trail of blood creep.|
+c273|A charging follower that explodes on enemies.|
+c275|Follower that charges a thin Brimstone laser.|
+c276|Isaac is immune to damage, but his heart familiar isn't.|Beat Isaac as The Lost
+c277|Follower that chases and frightens enemies.|
+c278|Follower that collects red hearts for rewards.|
+c282|Hop over obstacles and enemies.|
+c283|Combines the effects of several dice.|
+c284|Rerolls all of Isaac's passive items.|
+c285|Rerolls all monsters in the room.|
+c286|Copies the card Isaac is holding.|Beat Isaac as Eden
+c287|Reveals map info or X-Ray vision for the floor.|Beat Satan as Eden
+c288|Releases several friendly blue spiders.|
+c289|Shoots a flame that shrinks as it travels.|Donate 400 coins to the Donation Machine
+c292|Black heart; swaps the boss reward for a Devil deal.|Beat Isaac as Azazel
+c295|Pays a penny to damage every enemy.|
+c297|Spawns pickups or items depending on the floor.|Beat The Lamb as Lazarus
+c298|Invulnerable and fast for a few seconds, but no tears.|
+c299|Slower, but builds speed into a charge attack.|
+c300|Faster; running into enemies hurts them.|
+c301|Soul hearts and a protective shield after damage.|
+c304|Gives coins, bombs and keys; evens out stats.|
+c309|Fire rate up, knockback and bigger tears.|
+c310|Doubles damage but slows tears and shot speed.|Finish the Boss Rush as Eve
+c313|Blocks the first hit in each room.|
+c316|Charge shots, but being hit teleports Isaac.|
+c319|Follower that shoots in random cardinal directions.|Finish the Boss Rush as Cain
+c323|Fires a ring of tears that copy Isaac's stats.|Beat Isaac as Isaac
+c326|Short invincibility when empty, then it hurts.|
+c330|Much faster, much weaker tears.|
+c331|Homing tears with a damaging halo.|Earn every mark on Hard as The Lost
+c334|Three red heart containers.|Beat ??? as The Lost
+c338|Throws a boomerang that retrieves pickups.|
+c349|About half the time, drops a coin.|Donate 33 coins to the Greed Donation Machine
+c351|Giant fart: petrifies and sends a rock wave.|
+c352|One huge piercing shot, at the cost of health.|
+c353|Bombs explode in a cross; five extra bombs.|
+c357|Duplicates all familiars for the room.|Beat Ultra Greed as Lilith
+c360|Dark familiar that copies Isaac's tears.|Beat Hush as Lilith
+c362|Follower chest that drops pickups after rooms.|Beat Ultra Greed as Isaac
+c363|Orbiter that blocks shots; drops an eternal heart.|Beat Hush as The Lost
+c373|Damage grows as shots hit; missing resets it.|
+c384|Follower that charges and bounces around hitting enemies.|
+c386|Rerolls obstacles in the room.|Beat Hush as Cain
+c395|Tears are laser rings that damage enemies inside.|
+c397|Tears follow a beam of light that you aim.|
+c399|Charge a black ring that damages enemies.|Beat Hush as Azazel
+c400|Isaac wields a spear alongside his tears.|
+c406|Rerolls Isaac's stats.|Complete the PRIDE DAY! challenge
+c412|Hit repeatedly to gain a demon familiar.|Beat ??? as Lilith
+c413|Heal repeatedly to gain an angel familiar.|Finish the Boss Rush as Lilith
+c415|Soul hearts and a big boost at full red health.|
+c421|Charming fart for nearby enemies.|
+c422|Rewinds time to the previous room.|
+c434|Collects flies from kills; release them on use.|
+c437|Restarts the room with enemies again.|
+c439|Raises luck and doubles trinket effects; drops a trinket.|
+c441|Fires an enormous laser for a long time.|
+c451|Drops a card or rune and doubles their effects.|
+c455|Range boost and drops a lucky penny.|Beat Ultra Greedier as The Lost
+c459|Chance to fire sticky booger tears.|
+c462|Piercing tears that start homing after the first hit.|Beat Ultra Greedier as Judas
+c472|Familiar that leads the rest of your familiars.|Beat Delirium as ???
+c475|Kills every enemy in the room, then Isaac.|Beat Ultra Greedier as Lazarus
+c476|Duplicates a pickup in the room.|Beat Ultra Greedier as Isaac
+c477|Absorbs pedestal items for their effects.|Beat Delirium as Apollyon
+c480|Doubles blue flies and spiders; turns pickups into them.|
+c482|Turns Isaac into a different character.|
+c483|Explodes the whole room and reveals secrets every room.|
+c488|Gives a random item effect for the room.|Beat Ultra Greedier as Eden
+c490|Spawns two item pedestals, then is consumed.|Beat Delirium as Eden
+c491|Follower that drops pills; using pills poisons enemies.|
+c496|Needle shots that can instantly kill basic enemies.|Beat Delirium as Lilith
+c510|Summons a friendly boss for Isaac.|Beat Delirium
+c512|Throws a black hole that pulls in enemies.|Defeat 20 Portals
+c520|Gains an active charge every 15 kills.|Take any two battery-tagged items in one run
+c529|Tears are bouncing eyeballs.|Beat Chapter 4 without taking damage
+c531|Large blood tears that burst into smaller ones.|Take Blood Clot ten times
+c534|Hold two active items.|Enter six shops in one run
+c543|A white poop familiar that buffs fire rate and blocks shots.|Beat Hush as The Forgotten
+c545|Raises a friendly bone for each enemy killed.|Beat Delirium as The Forgotten
+c549|Swaps hearts for bone hearts and fires bones when hit.|Beat The Lamb as The Forgotten
+c552|Digs a trapdoor; unlocks The Forgotten in the Dark Room.|
+c554|Frightens nearby enemies; fire rate and shot speed up.|
+c556|Brimstone for the current room.|
+c557|Gives a fortune or a small prize.|
+c558|Fires extra tears in random directions.|
+c561|Four times the fire rate, at a fraction of the damage.|
+c562|Isaac's stats can never be lowered.|Finish the Boss Rush as Jacob and Esau
+c565|Dog familiar that grows stronger and more aggressive.|Beat Mother as Lilith
+c566|Shows the next floor's treasure and boss before you arrive.|
+c567|Candle familiar boosting fire rate for each damage-free room.|
+c568|Double tap fire to throw a shield that pushes enemies and shots away.|Beat Hush as Bethany
+c569|Drains hearts each floor in exchange for power.|
+c571|Immune to creep and spikes; soul hearts and speed.|
+c572|Control tears mid-flight; damage and range up.|
+c573|Heart container, damage multiplier and orbiting tears.|
+c574|Damaging aura around Isaac.|
+c576|Destroyed poop spawns helper dips.|Complete the Scat Man challenge
+c579|Swing a sword instead of shooting tears.|Complete the Isaac's Awakening challenge
+c580|Opens a red room next to the current one.|Open Mom's Chest in Home
+c584|Active items spawn orbiting wisps.|Beat Isaac as Bethany
+c585|Spawns soul hearts and Angel Room items once charged.|Beat The Lamb as Bethany
+c586|Builds a ladder each floor to a special Angel shop.|Beat Isaac as Jacob and Esau
+c588|Reveals the boss room; boss kills grant bonuses.|
+c589|Extra secret rooms with fire rate boosts.|
+c590|Speed up; doors stay open.|
+c591|Heart container; nearby enemies are charmed.|
+c592|Tears become rocks that hit hard and break obstacles.|
+c593|Double tap to dash, invulnerable while dashing.|
+c594|Two heart containers; releases poison gas as Isaac moves.|
+c595|Orbiting ring of tears each room.|
+c596|Ice tears that freeze and shatter enemies.|
+c597|Stores tears and releases them in a burst.|
+c598|Fire rate up and Isaac shrinks.|
+c599|Adds an extra Curse Room per floor.|
+c601|Fire rate up, eternal heart, better Angel Room odds.|
+c602|Unlocks a trapdoor from each shop to a second one.|Spend 40+ coins in a single shop
+c606|Chance to fire tears that open pulling rifts.|
+c616|Chance for tears to bring a fire that blocks shots.|
+c617|Chance for magnetic tears that pull pickups and shots.|
+c619|Boosts each character's special ability.|Beat ??? as Jacob and Esau
+c621|Full heal and a huge temporary damage boost.|Beat Satan as Jacob and Esau
+c629|Orbiting fly that shoots enemy projectiles.|
+c634|Cracks release ghosts that explode on enemies.|Complete the Baptism by Fire challenge
+c636|Starts the run over with all stats and items kept.|
+c643|Flight, soul hearts and a charged holy laser.|Beat Mother as Bethany
+c644|Boosts your lowest stat and drops a pickup.|
+c646|Bombs fire four Brimstone beams; five extra bombs.|Kill Hornfel before he escapes
+c647|Active items charge by hitting enemies instead.|
+c649|Mini Baby Plum that bounces around firing tears.|Defeat Baby Plum ten times
+c651|Star that guides you to the boss and buffs damage.|Beat Delirium as Bethany
+c652|Ice-cube familiar that you kick around.|
+c654|Swaps good and bad pills; adds a black heart.|
+c658|Spawns tiny helper Isaacs when hurt.|
+c661|Kills spawn stationary shooter familiars.|
+c664|Heart container and food items on pedestals for bonuses.|
+c665|Reveals chest contents and shopkeepers before they open.|Beat Mother as Cain
+c667|A controllable Keeper joins the fight.|Beat The Beast as Tainted Keeper
+c669|Boosts every stat and adds a heart container.|
+c671|Healing with red hearts gives permanent stats.|Beat The Beast as Magdalene
+c672|Devil deals cost coins; shop items cost health.|Beat The Beast as Cain
+c674|On fatal damage, Isaac's ghost gets a second chance.|Beat The Beast as The Forgotten
+c677|Becomes a flying ghost the first time you're hit in a room.|Beat The Beast as Lazarus
+c679|Follower that charges a mini void attack.|Beat The Beast as Azazel
+c681|Follower that eats pickups to grow and spawn flies.|Beat Mother as Apollyon
+c683|Enemies leave floating bones when they die.|Beat Mother as The Forgotten
+c685|Spawns wisps; more with each use.|Beat The Beast as Bethany
+c686|Soul hearts grant permanent stats.|Beat Ultra Greed as Bethany
+c687|Spawns a friendly monster that copies Isaac.|Beat The Beast as Jacob and Esau
+c688|Respawn once in a tiny body with half a heart.|Beat Ultra Greed as Jacob and Esau
+c689|Pedestals cycle through several items.|Beat The Beast as Tainted Isaac
+c691|Raises item quality by removing the weakest items.|Beat The Beast as Tainted Lost
+c692|Adds special spikes to the Devil Room.|Beat The Beast as Tainted Judas
+c693|Orbiting flies that turn into blue flies.|Beat The Beast as Tainted ???
+c694|Grants broken hearts and gains damage for each.|Beat The Beast as Tainted Eve
+c696|Halo that calls light beams on enemies.|Beat The Beast as Tainted Lazarus
+c698|Two familiars that fire tears like Isaac's.|Beat The Beast as Tainted Lilith
+c699|Builds charge, then fires a Brimstone blast.|Beat The Beast as Tainted Azazel
+c700|Cards, pills and runes repeat previous uses.|Beat The Beast as Tainted Apollyon
+c701|Spawns an Old Chest each floor.|Beat The Beast as Tainted Forgotten
+c702|Hurt to gain orbiting shooter wisps.|Beat The Beast as Tainted Bethany
+c703|Swap between Isaac and a flying brother.|Beat The Beast as Tainted Jacob
+c704|Melee berserk mode that charges by dealing damage.|Beat Delirium as Tainted Samson
+c705|Intangible dash that ends with a damaging burst.|Beat Delirium as Tainted Judas
+c706|Destroys pedestals into locust familiars.|Beat Delirium as Tainted Apollyon
+c708|Damage up; only one eye shoots.|
+c710|Collect pickups to craft an item.|Beat Delirium as Tainted Cain
+c711|Flip between real and ghost items on pedestals.|Beat Delirium as Tainted Lazarus
+c712|Summons wisps that grant the effect of random passives.|Beat Delirium as Tainted Bethany
+c713|Converts health into a Clot familiar.|Beat Delirium as Tainted Eve
+c715|Tainted ??? can store an extra poop bomb.|
+c716|Boosts stats when buying; spawns coins and a key.|Beat Mother as Keeper
+c721|Items become glitched with random effects.|Beat The Beast as Tainted Eden
+c722|Chains down the nearest enemy.|Beat Delirium as Tainted Jacob
+c723|Turns pedestal items into the one before them.|Beat Delirium as Tainted Isaac
+c726|Double tap to sneeze blood and curse enemies.|Beat Delirium as Tainted Azazel
+c727|Ghost bombs that spawn spectral helpers.|Beat Delirium as Tainted Lost
+c728|Demon familiar attached to Isaac for a room.|Beat Delirium as Tainted Lilith
+c730|Damage and luck up.|
+c731|One eye gets damage and range; shot speed lowered.|
+c732|Damage up and drops a rune or soul stone.|
+c120|Fire rate and speed up, damage down slightly.|
+c121|Heart container and damage up, speed down.|
+c624|Drops five random cards.|
+t1|Hurt to drop a coin.|Complete the Slow Roll challenge
+t2|Poop piles drop pickups more often.|
+t7|Makes the Bible and Angel Rooms more common.|
+t16|Mom's foot stomps down every so often.|
+t22|Hearts tend to turn black, or keys.|Beat Satan as Azazel
+t59|May show the floor map at the start of each floor.|Beat ??? as Cain
+t61|All chests become red chests.|Beat Ultra Pride or ??? as Judas
+t72|More battery drops; may add an extra charge.|
+t80|Grants damage for each evil item held.|Beat Ultra Greed as Eve
+t81|Longer invincibility after being hit.|Beat Hush as Samson
+t83|Shops open without keys.|Donate 666 coins to the Greed Donation Machine
+t85|Donations may heal you or spawn a beggar.|Beat The Lamb as Keeper
+t86|Poop piles release blue flies.|
+t90|Poops explode when destroyed.|
+t96|Tears travel in a spiral and gain a little homing.|
+t97|May spawn tonsil shields when hit.|
+t101|Boosts stats when your active item is empty.|
+t105|May turn into Lunch when you get hit.|
+t107|Red hearts take damage first.|Beat Ultra Greedier as Eve
+t120|Fully recharges your active item at boss fights.|Recharge with Lil' Batteries 20 times
+t121|Blocks the first hit once per floor.|Sleep in a bed
+t129|Chance to fire teeth that hit hard.|
+t139|Luck-based tear effects happen more often.|
+t156|Grants a heart container.|Beat Mother as Tainted Magdalene
+t159|New chests become locked chests; gives a key.|Beat Isaac, ???, Satan and The Lamb as Tainted Cain
+t160|Spawns a Grab Bag on each new floor.|Beat Mother as Tainted Cain
+t161|Adds a Treasure Room and Shop to Sheol.|Beat Isaac, ???, Satan and The Lamb as Tainted Azazel
+t168|Adds an empty bone heart each floor.|Beat Mother as Tainted Forgotten
+t172|Picking up coins teleports you.|Beat Mother as Tainted Keeper

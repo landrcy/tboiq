@@ -45,7 +45,19 @@
     chest: ['.nnnnnn.', 'nnnnnnnn', 'nnnyynnn', 'nnnnnnnn', 'nnnnnnnn', 'nnnnnnnn'],
     disc: ['..bbbb..', '.bwwwwb.', 'bwwbbwwb', 'bwbbbbwb', 'bwwbbwwb', '.bwwwwb.', '..bbbb..'],
     sparkle: ['...w....', '...w....', '.wwwww..', '...w....', '..w.w...'],
-    x2: ['w.w.www', '.w..w.w', 'w.w..ww', '.....w.', '.....www']
+    x2: ['w.w.www', '.w..w.w', 'w.w..ww', '.....w.', '.....www'],
+    book: ['.nnnnnn.', 'nnwwwwnn', 'nnwnnwnn', 'nnwwwwnn', 'nnnnnnnn', 'nnnnnnnn', '.nnnnnn.'],
+    search: ['..www...', '.w...w..', 'w.....w.', 'w.....w.', '.w...w..', '..www...', '.....ww.', '......ww'],
+    link: ['.wwww...', 'w....w..', 'w..wwwww', 'w..w...w', '.wwwww.w', '....w..w', '....w..w', '.....www'],
+    info: ['...ww...', '...ww...', '........', '..www...', '...ww...', '...ww...', '...ww...', '..wwww..'],
+    tear: ['...bb...', '..bbbb..', '.bbwbbb.', '.bbwbbb.', 'bbbbbbbb', 'bbbbbbbb', '.bbbbbb.', '..bbbb..'],
+    dmg: ['r..rr..r', '.r.rr.r.', '..rrrr..', 'rrrrrrrr', 'rrrrrrrr', '..rrrr..', '.r.rr.r.', 'r..rr..r'],
+    range: ['........', 'w......w', 'ww....ww', 'wwwwwwww', 'ww....ww', 'w......w', '........'],
+    speed: ['y...y...', 'yy..yy..', 'yyy.yyy.', 'yyyyyyyy', 'yyy.yyy.', 'yy..yy..', 'y...y...'],
+    luck: ['.ee.ee..', 'eeeeeee.', '.eeeee..', 'eeeeeee.', '.ee.ee..', '...e....', '...e....'],
+    tainted: ['.rwwwwr.', 'rwkwwkwr', 'rwwwwwwr', '.rwkkwr.', '.rrrrrr.', 'r.r..r.r', '..r..r..'],
+    back: ['...w....', '..ww....', '.wwwwwww', 'wwwwwwww', '.wwwwwww', '..ww....', '...w....'],
+    pickup: ['.wwww...', 'wkwwkw..', 'wwwwww..', '.wwww...']
   };
   var DOWN = { down: 'up' };
   var providers = null;
@@ -111,11 +123,11 @@
   }
 
   /* ---- pools: colour + pattern so they are distinguishable without colour ---- */
-  var POOLS = ['treasure', 'shop', 'boss', 'devil', 'angel', 'secret', 'library', 'curse', 'planetarium', 'redchest', 'goldchest', 'ultrasecret', 'crane', 'baby', 'misc', 'trinket'];
+  var POOLS = ['treasure', 'shop', 'boss', 'devil', 'angel', 'secret', 'library', 'curse', 'planetarium', 'redchest', 'goldchest', 'ultrasecret', 'crane', 'baby', 'misc', 'special', 'trinket'];
   var POOLCOL = { treasure: '#e8902a', shop: '#74a3c8', boss: '#e2573f', devil: '#c0405a', angel: '#f5ebcf', secret: '#6e5a9e', library: '#a38c76', curse: '#8d7bc0',
-    planetarium: '#4fb3a6', redchest: '#a62336', goldchest: '#ffd56b', ultrasecret: '#d98aa8', crane: '#78a03a', baby: '#efb5c4', misc: '#7c8296', trinket: '#d9c8a2' };
+    planetarium: '#4fb3a6', redchest: '#a62336', goldchest: '#ffd56b', ultrasecret: '#d98aa8', crane: '#78a03a', baby: '#efb5c4', misc: '#7c8296', special: '#c7a24a', trinket: '#d9c8a2' };
   function poolPat(i, x, y) {   // x,y in 0..5 ; returns true for dark pattern pixel
-    switch (i % 16) {
+    switch (i % 17) {
       case 0: return (x === 2 || x === 3) && (y === 2 || y === 3);
       case 1: return y === 2 || y === 3;
       case 2: return x === 2 || x === 3;
@@ -246,7 +258,41 @@
     if (h === 'none') return 'crowned_wraith';
     var reds = ['moss_witch', 'plague_physician', 'shroom_hermit', 'hooded_pilgrim']; return reds[base % reds.length];
   }
-  function entityCanvas(kind, obj, scale) {
+  /* ---- real wiki sprites (assets/sprites/, indexed by data/sprites.js); original art above is the fallback ---- */
+  var DATA = window.TBOIQ_DATA || {}, imgCache = {};
+  function spriteInfo(obj) { var sp = DATA.sprites && DATA.sprites[obj.k]; if (!sp) return null; var isChar = obj.k.charAt(0) === 'p';
+    return isChar ? { icon: sp[0] && sp[0].indexOf('_portrait') < 0 ? sp[0] : null, portrait: sp.length > 2 ? sp[1] : (sp[0] && sp[0].indexOf('_portrait') >= 0 ? sp[0] : null), page: sp[sp.length - 1] }
+      : { icon: sp[0], page: sp[1] }; }
+  function wikiUrl(obj) { var i = spriteInfo(obj); return i && DATA.wikiBase ? DATA.wikiBase + i.page : null; }
+  function loadImg(file) {
+    var e = imgCache[file]; if (e) return e;
+    e = imgCache[file] = { img: new Image(), ok: false, fail: false, cbs: [] };
+    e.img.onload = function () { e.ok = true; e.cbs.splice(0).forEach(function (f) { f(true); }); };
+    e.img.onerror = function () { e.fail = true; e.cbs.splice(0).forEach(function (f) { f(false); }); };
+    e.img.src = (DATA.spriteBase || 'assets/sprites/') + file; return e;
+  }
+  function spriteCanvas(file, k, scale, fallback) {
+    var e = loadImg(file), c = canvasOf(32, 32, 1), x = c.getContext('2d'); x.imageSmoothingEnabled = false;
+    var disp = 32 * Math.max(1, Math.round(scale / 1.5));
+    function draw(ok) {
+      if (ok) { var w = e.img.naturalWidth, h = e.img.naturalHeight; c.width = w; c.height = h; c.style.width = (w * disp / 32) + 'px'; c.style.height = (h * disp / 32) + 'px';
+        var cx = c.getContext('2d'); cx.imageSmoothingEnabled = false; cx.drawImage(e.img, 0, 0); c.dataset.sprite = '1'; }
+      else if (fallback) { var f = fallback(); c.width = f.width; c.height = f.height; c.style.width = f.style.width; c.style.height = f.style.height; c.getContext('2d').drawImage(f, 0, 0); c.dataset.sprite = '0'; }
+    }
+    c.style.width = disp + 'px'; c.style.height = disp + 'px';
+    if (e.ok) draw(true); else if (e.fail) draw(false); else e.cbs.push(draw);
+    return c;
+  }
+  function entityCanvas(kind, obj, scale, opt) {
+    scale = scale || 3; opt = opt || {};
+    var si = spriteInfo(obj);
+    if (si && !(providers && providers.entity)) {
+      var file = kind === 'char' ? ((opt.portrait && si.portrait) || si.icon || si.portrait) : si.icon;
+      if (file) return spriteCanvas(file, obj.k, kind === 'char' && opt.portrait ? scale * 1.5 : scale, function () { return entityFallback(kind, obj, scale); });
+    }
+    return entityFallback(kind, obj, scale);
+  }
+  function entityFallback(kind, obj, scale) {
     scale = scale || 3;
     if (providers && providers.entity) { var c = providers.entity(kind, obj, scale); if (c) return c; }
     var kn = kitName(kind, obj);
@@ -262,5 +308,14 @@
     if (providers && providers.pool) { var c = providers.pool(key, scale); if (c) return c; }
     return poolCanvas(key, scale);
   }
-  window.TBOIQIcons = { kit: kitCanvas, hasKit: function () { return !!kit(); }, ui: ui, pool: pool, entity: entityCanvas, POOLCOL: POOLCOL, setProvider: function (p) { providers = p; } };
+  /* pixel pedestal (24x10) drawn in code: original art */
+  function pedestal(scale) {
+    var b = new Buf(26, 12), top = '#8a7a6a', mid = '#5a4a40', dk = '#3a2c28', hi = '#b09c88';
+    b.rect(2, 0, 22, 2, hi); b.rect(1, 2, 24, 3, top); b.rect(3, 5, 20, 5, mid); b.rect(1, 10, 24, 2, dk);
+    b.rect(3, 5, 20, 1, dk); b.rect(5, 7, 2, 2, dk); b.rect(11, 6, 3, 1, dk); b.rect(18, 8, 3, 1, dk); b.rect(12, 2, 4, 1, dk);
+    [[0, 0], [25, 0], [0, 11], [25, 11]].forEach(function (p) { b.set(p[0], p[1], null); });
+    b.outline(OUT); var c = new Buf(28, 14); for (var y = 0; y < 12; y++) for (var x = 0; x < 26; x++) c.set(x + 1, y + 1, b.get(x, y));
+    var o = c.toCanvas(scale || 4); return o;
+  }
+  window.TBOIQIcons = { pedestal: pedestal, wikiUrl: wikiUrl, spriteInfo: spriteInfo, kit: kitCanvas, hasKit: function () { return !!kit(); }, ui: ui, pool: pool, entity: entityCanvas, POOLCOL: POOLCOL, setProvider: function (p) { providers = p; } };
 })();

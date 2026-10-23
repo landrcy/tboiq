@@ -1,0 +1,651 @@
+[
+{
+"k": "p0",
+"name": "Isaac",
+"n": 0,
+"dlc": 0,
+"tainted": 0,
+"unlock": "default",
+"hearts": [
+"red"
+],
+"hp": 3,
+"items": [
+"active"
+],
+"pocket": [
+"bomb"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p1",
+"name": "Magdalene",
+"n": 1,
+"dlc": 0,
+"tainted": 0,
+"unlock": "collect",
+"hearts": [
+"red"
+],
+"hp": 4,
+"items": [
+"active"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p2",
+"name": "Cain",
+"n": 2,
+"dlc": 0,
+"tainted": 0,
+"unlock": "collect",
+"hearts": [
+"red"
+],
+"hp": 2,
+"items": [
+"passive"
+],
+"pocket": [
+"key"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p3",
+"name": "Judas",
+"n": 3,
+"dlc": 0,
+"tainted": 0,
+"unlock": "boss",
+"hearts": [
+"red"
+],
+"hp": 1,
+"items": [
+"active"
+],
+"pocket": [
+"coin"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p4",
+"name": "???",
+"n": 4,
+"dlc": 0,
+"tainted": 0,
+"unlock": "boss",
+"hearts": [
+"soul"
+],
+"hp": 3,
+"items": [
+"active"
+],
+"pocket": [],
+"flight": 0,
+"aka": "Blue Baby"
+},
+{
+"k": "p5",
+"name": "Eve",
+"n": 5,
+"dlc": 0,
+"tainted": 0,
+"unlock": "feat",
+"hearts": [
+"red"
+],
+"hp": 2,
+"items": [
+"active",
+"passive"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p6",
+"name": "Samson",
+"n": 6,
+"dlc": 0,
+"tainted": 0,
+"unlock": "feat",
+"hearts": [
+"red"
+],
+"hp": 3,
+"items": [
+"passive"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p7",
+"name": "Azazel",
+"n": 7,
+"dlc": 0,
+"tainted": 0,
+"unlock": "feat",
+"hearts": [
+"black"
+],
+"hp": 3,
+"items": [
+"innate"
+],
+"pocket": [
+"card"
+],
+"flight": 1,
+"aka": ""
+},
+{
+"k": "p8",
+"name": "Lazarus",
+"n": 8,
+"dlc": 0,
+"tainted": 0,
+"unlock": "collect",
+"hearts": [
+"red"
+],
+"hp": 3,
+"items": [],
+"pocket": [
+"pill"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p9",
+"name": "Eden",
+"n": 9,
+"dlc": 0,
+"tainted": 0,
+"unlock": "boss",
+"hearts": [
+"random"
+],
+"hp": null,
+"items": [
+"random"
+],
+"pocket": [
+"random"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p10",
+"name": "The Lost",
+"n": 10,
+"dlc": 0,
+"tainted": 0,
+"unlock": "secret",
+"hearts": [
+"none"
+],
+"hp": 0,
+"items": [
+"innate"
+],
+"pocket": [
+"coin"
+],
+"flight": 1,
+"aka": "Lost"
+},
+{
+"k": "p13",
+"name": "Lilith",
+"n": 13,
+"dlc": 1,
+"tainted": 0,
+"unlock": "boss",
+"hearts": [
+"red",
+"black"
+],
+"hp": 3,
+"items": [
+"active",
+"passive"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p14",
+"name": "Keeper",
+"n": 14,
+"dlc": 1,
+"tainted": 0,
+"unlock": "donate",
+"hearts": [
+"coin"
+],
+"hp": 2,
+"items": [
+"innate"
+],
+"pocket": [
+"bomb"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p15",
+"name": "Apollyon",
+"n": 15,
+"dlc": 2,
+"tainted": 0,
+"unlock": "boss",
+"hearts": [
+"red"
+],
+"hp": 2,
+"items": [
+"active"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p16",
+"name": "The Forgotten",
+"n": 16,
+"dlc": 2,
+"tainted": 0,
+"unlock": "secret",
+"hearts": [
+"bone"
+],
+"hp": 2,
+"items": [
+"innate"
+],
+"pocket": [],
+"flight": 0,
+"aka": "Forgotten"
+},
+{
+"k": "p18",
+"name": "Bethany",
+"n": 18,
+"dlc": 3,
+"tainted": 0,
+"unlock": "feat",
+"hearts": [
+"red"
+],
+"hp": 3,
+"items": [
+"active"
+],
+"pocket": [
+"charge"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p19",
+"name": "Jacob & Esau",
+"n": 19,
+"dlc": 3,
+"tainted": 0,
+"unlock": "boss",
+"hearts": [
+"red"
+],
+"hp": 3,
+"items": [],
+"pocket": [],
+"flight": 0,
+"aka": "Jacob and Esau"
+},
+{
+"k": "p21",
+"name": "Tainted Isaac",
+"n": 21,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"red"
+],
+"hp": 3,
+"items": [
+"innate"
+],
+"pocket": [
+"bomb"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p22",
+"name": "Tainted Magdalene",
+"n": 22,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"red"
+],
+"hp": 2,
+"items": [
+"active"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p23",
+"name": "Tainted Cain",
+"n": 23,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"red"
+],
+"hp": 2,
+"items": [
+"active"
+],
+"pocket": [
+"key"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p24",
+"name": "Tainted Judas",
+"n": 24,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"black"
+],
+"hp": 2,
+"items": [
+"active"
+],
+"pocket": [
+"coin"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p25",
+"name": "Tainted ???",
+"n": 25,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"soul"
+],
+"hp": 3,
+"items": [
+"active"
+],
+"pocket": [
+"bomb"
+],
+"flight": 0,
+"aka": "Tainted Blue Baby"
+},
+{
+"k": "p26",
+"name": "Tainted Eve",
+"n": 26,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"red"
+],
+"hp": 2,
+"items": [
+"active"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p27",
+"name": "Tainted Samson",
+"n": 27,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"red"
+],
+"hp": 3,
+"items": [
+"innate"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p28",
+"name": "Tainted Azazel",
+"n": 28,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"black"
+],
+"hp": 3,
+"items": [
+"innate"
+],
+"pocket": [
+"card"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p29",
+"name": "Tainted Lazarus",
+"n": 29,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"red"
+],
+"hp": 3,
+"items": [
+"active"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p30",
+"name": "Tainted Eden",
+"n": 30,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"random"
+],
+"hp": null,
+"items": [
+"random"
+],
+"pocket": [
+"random"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p31",
+"name": "Tainted Lost",
+"n": 31,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"none"
+],
+"hp": 0,
+"items": [
+"innate"
+],
+"pocket": [
+"coin",
+"card"
+],
+"flight": 1,
+"aka": "Tainted The Lost"
+},
+{
+"k": "p32",
+"name": "Tainted Lilith",
+"n": 32,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"red",
+"black"
+],
+"hp": 3,
+"items": [
+"innate"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p33",
+"name": "Tainted Keeper",
+"n": 33,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"coin"
+],
+"hp": 2,
+"items": [
+"innate"
+],
+"pocket": [
+"bomb"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p34",
+"name": "Tainted Apollyon",
+"n": 34,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"red"
+],
+"hp": 2,
+"items": [
+"active"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p35",
+"name": "Tainted Forgotten",
+"n": 35,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"none"
+],
+"hp": 0,
+"items": [
+"innate"
+],
+"pocket": [],
+"flight": 0,
+"aka": "Tainted The Forgotten"
+},
+{
+"k": "p36",
+"name": "Tainted Bethany",
+"n": 36,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"soul"
+],
+"hp": 3,
+"items": [
+"active"
+],
+"pocket": [
+"charge"
+],
+"flight": 0,
+"aka": ""
+},
+{
+"k": "p37",
+"name": "Tainted Jacob",
+"n": 37,
+"dlc": 3,
+"tainted": 1,
+"unlock": "closet",
+"hearts": [
+"red"
+],
+"hp": 3,
+"items": [
+"active"
+],
+"pocket": [],
+"flight": 0,
+"aka": ""
+}
+]

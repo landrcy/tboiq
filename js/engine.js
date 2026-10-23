@@ -7,7 +7,7 @@
   var DLC_NAME = ['Rebirth', 'Afterbirth', 'Afterbirth+', 'Repentance'];
   var POOL_NAME = { treasure: 'Treasure Room', shop: 'Shop', boss: 'Boss', devil: 'Devil Room', angel: 'Angel Room', secret: 'Secret Room',
     library: 'Library', curse: 'Curse Room', planetarium: 'Planetarium', redchest: 'Red Chest', goldchest: 'Golden Chest',
-    ultrasecret: 'Ultra Secret', crane: 'Crane Game', baby: 'Baby Shop', misc: 'Other', trinket: 'Trinket' };
+    ultrasecret: 'Ultra Secret', crane: 'Crane Game', baby: 'Baby Shop', misc: 'Other', special: 'Special', trinket: 'Trinket' };
   var UNLOCK_NAME = { default: 'Start', boss: 'Boss', collect: 'Collect', feat: 'Feat', secret: 'Secret', donate: 'Donate', closet: 'Closet' };
 
   function setState(a, b) {
