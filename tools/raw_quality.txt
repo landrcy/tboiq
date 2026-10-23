@@ -1,0 +1,316 @@
+Abyss|16:3 8:4
+Alabaster Box|15:2 16:1
+Anarchist Cookbook|16:0 15:1
+Anima Sola|15:3 16:2
+Bag of Crafting|24:3
+Berserk!|15:2 16:1
+Best Friend|15:1 16:0
+Black Hole|31:1
+Blank Card|31:2
+Bob's Rotten Head|31:1
+Book of Revelations|31:3
+Book of Secrets|16:0 15:1
+Book of Shadows|31:3
+Book of the Dead|15:3 16:2
+Book of Virtues|24:3
+Box of Friends|30:1
+Box of Spiders|31:1
+Breath of Life|31:1
+Clicker|31:0
+Compost|15:1 16:0
+Crystal Ball|31:3
+D1|28:2
+D10|31:1
+D100|16:1 15:3
+D12|30:1
+D20|31:2
+D4|16:1 15:2
+D7|30:1
+D8|16:1 14:2
+Dark Arts|15:2 16:1
+Dead Sea Scrolls|31:1
+Deck of Cards|31:2
+Delirious|31:1
+Doctor's Remote|31:1
+Eden's Soul|15:3 16:2
+Esau Jr.|15:2 16:1
+Flip|31:4
+Forget Me Now|31:3
+Fortune Cookie|31:2
+Friend Finder|16:2 8:3
+Gello|24:3
+Glass Cannon|31:1
+Glowing Hourglass|30:3
+Guppy's Head|31:2
+Guppy's Paw|31:3
+Hold|31:0
+How to Jump|31:1
+Isaac's Tears|31:1
+Jar of Flies|30:2
+Jar of Wisps|15:2 16:1
+Kidney Bean|16:0 14:1
+Lemegeton|31:3
+Lemon Mishap|31:0
+Magic Fingers|15:1 16:0
+Mama Mega!|28:3
+Mega Bean|30:1
+Mega Blast|30:4
+Metronome|28:1
+Mom's Bottle of Pills|31:1
+Mom's Bra|15:1 16:0
+Mom's Shovel|28:4
+Monster Manual|31:1
+Monstro's Tooth|15:1 16:0
+Mr. Boom|31:1
+My Little Unicorn|31:1
+Notched Axe|31:1
+Pandora's Box|31:2
+Plan C|28:0
+R Key|24:4
+Red Candle|16:1 15:2
+Red Key|31:3
+Satanic Bible|16:3 15:4
+Shoop da Whoop!|31:2
+Spider Butt|31:1
+Spindown Dice|24:4
+Sulfur|16:2 8:3
+Sumptorium|31:3
+Tammy's Head|16:1 15:2
+Telepathy For Dummies|31:1
+Teleport!|31:0
+The Bean|31:0
+The Bible|31:1
+The Book of Belial|31:2
+The Book of Sin|15:2 16:1
+The Boomerang|31:1
+The Candle|31:2
+The D6|31:4
+The Gamekid|31:1
+The Hourglass|16:0 15:1
+The Nail|31:2
+The Necronomicon|16:0 15:1
+The Pinking Shears|31:2
+The Poop|31:0
+Unicorn Stump|31:1
+Void|16:3 12:4
+We Need To Go Deeper!|31:2
+White Pony|16:3 15:2
+Wooden Nickel|30:1
+Yum Heart|31:1
+1up!|31:2
+20/20|31:4
+Abaddon|31:3
+Blood of the Martyr|31:3
+Breakfast|31:1
+Brimstone|31:4
+Brother Bobby|31:1
+Cat-o-nine-tails|31:3
+Chocolate Milk|31:3
+Cricket's Head|31:4
+Crown Of Light|30:4
+Dead Bird|31:0
+Dead Cat|31:3
+Dessert|31:1
+Dinner|31:1
+Dr. Fetus|31:4
+Epic Fetus|31:4
+Eye of Belial|28:3
+Fire Mind|31:2
+Godhead|31:4
+Halo of Flies|31:2
+Holy Grail|31:3
+Holy Mantle|31:4
+Incubus|31:4
+Ipecac|31:4
+Lucky Foot|31:2
+Lunch|31:1
+Magic Mushroom|31:4
+Maw Of The Void|30:3
+Mom's Contacts|31:3
+Mom's Heels|31:1
+Mom's Knife|31:4
+Mom's Lipstick|31:1
+Mom's Underwear|31:1
+Mutant Spider|31:3
+My Reflection|15:2 16:3
+Number One|31:2
+Ouija Board|31:2
+Pentagram|31:3
+Polyphemus|31:4
+Pyromaniac|31:4
+Raw Liver|31:2
+Roid Rage|31:2
+Rosary|31:2
+Rotten Meat|31:1
+Sacred Heart|31:4
+Sacrificial Dagger|31:2
+Skatole|31:0
+Skeleton Key|16:2 15:3
+Spirit of the Night|31:3
+Spoon Bender|31:3
+Stop Watch|31:4
+Super Bandage|31:2
+Tech X|31:4
+Technology|31:3
+The Belt|31:1
+The Compass|15:2 16:1
+The Inner Eye|15:2 16:3
+The Mark|31:3
+The Pact|31:3
+The Sad Onion|31:3
+The Wafer|31:4
+Transcendence|15:3 16:2
+Wire Coat Hanger|31:3
+Wooden Spoon|31:1
+3 Dollar Bill|31:2
+9 Volt|31:2
+A Lump of Coal|31:3
+Abel|31:0
+Acid Baby|31:2
+Aries|31:2
+Bob's Brain|15:1 16:0
+Bomber Boy|30:2
+Brittle Bones|31:3
+Bum Friend|31:1
+Cain's Other Eye|31:2
+Cambion Conception|16:1 14:2
+Cancer|31:3
+Cricket's Body|31:3
+Cursed Eye|31:0
+Dad's Lost Coin|28:1
+Daddy Longlegs|31:3
+Dark Bum|31:3
+Dark Matter|31:3
+Dead Eye|30:3
+Demon Baby|15:2 16:1
+Distant Admiration|16:1 15:2
+Euthanasia|31:3
+Eve's Mascara|31:3
+Experimental Treatment|31:1
+Fate|31:3
+Forever alone|31:1
+Gimpy|31:2
+Gnawed Leaf|31:1
+Guardian Angel|16:1 15:2
+Guppy's Collar|31:1
+Guppy's Hairball|31:1
+Guppy's Tail|31:2
+Haemolacria|28:4
+Harlequin Baby|31:1
+Headless Baby|31:1
+Hive Mind|31:2
+Immaculate Conception|31:1
+Isaac's Heart|31:0
+Libra|31:1
+Lil Brimstone|31:2
+Lil Chest|31:2
+Lil Gurdy|15:2 16:1
+Lil Haunt|31:1
+Little C.H.A.D.|31:2
+Lord of the Pit|31:3
+Magneto|31:1
+Midas' Touch|15:2 16:1
+Mom's Box|30:2
+Mom's Perfume|31:2
+Mom's Purse|31:2
+Mom's Wig|31:2
+Piggy Bank|31:1
+Pisces|31:2
+Pop!|31:1
+Proptosis|31:3
+Rainbow Baby|31:1
+Rubber Cement|31:3
+Sack of Pennies|31:1
+Sacred Orb|24:4
+Sharp Plug|31:2
+Sinus Infection|31:3
+Sister Maggy|31:1
+Soy Milk|31:2
+Spear Of Destiny|15:2 16:1
+Sworn Protector|16:2 14:3
+Taurus|31:1
+The Body|31:3
+Tractor Beam|31:3
+2Spooky|31:1
+4.5 Volt|24:2
+A Pound of Flesh|15:1 16:0
+Act of Contrition|24:3
+Almond Milk|24:1
+Astral Projection|15:2 16:1
+Azazel's Rage|31:2
+Binge Eater|31:4
+Bird's Eye|31:3
+Birthright|31:3
+Blood Oath|24:1
+Blood Puppy|31:1
+Bone Spurs|24:2
+Bot Fly|31:3
+Brimstone Bombs|31:2
+Candy Heart|24:1
+Consolation Prize|24:1
+Cube Baby|24:1
+Dirty Mind|24:1
+Divine Intervention|15:2 16:1
+Dream Catcher|24:2
+Echo Chamber|31:3
+Eye of the Occult|24:3
+Eye Sore|24:1
+False PHD|31:2
+Fruity Plum|24:1
+Ghost Bombs|15:2 16:1
+Giant Cell|31:1
+Glass Eye|31:3
+Glitched Crown|31:4
+Guppy's Eye|24:2
+Hallowed Ground|28:1
+Heartbreak|24:3
+Hemoptysis|31:1
+Immaculate Heart|24:3
+Inner Child|31:2
+Isaac's Tomb|15:3 16:2
+Jumper Cables|16:2 12:3
+Jupiter|31:2
+Keeper's Sack|31:3
+King Baby|31:1
+Lil Abaddon|24:2
+Lil Portal|16:0 8:1
+Lodestone|15:3 16:2
+Luna|16:3 8:2
+Mars|15:2 16:0
+Member Card|24:2
+Mercurius|15:3 16:2
+Mom's Ring|31:3
+Monstrance|15:2 16:1
+Neptunus|24:3
+Ocular Rift|15:3 16:2
+Orphan Socks|31:2
+Paschal Candle|24:3
+Pluto|24:3
+Purgatory|16:1 8:2
+Quints|31:2
+Red Stew|24:2
+Revelation|24:4
+Rock Bottom|16:4 8:3
+Salvation|31:3
+Sanguine Bond|24:1
+Saturnus|31:2
+Sausage|24:3
+Schoolbag|28:3
+Sol|31:2
+Soul Locket|31:1
+Spirit Shackles|16:1 8:2
+Spirit Sword|31:3
+Stapler|24:3
+Star of Bethlehem|31:3
+Strawman|15:2 16:1
+Stye|31:2
+Tarot Cloth|28:2
+Terra|31:3
+The Stairway|24:3
+The Swarm|24:2
+TMTRAINER|24:0
+Twisted Pair|24:4
+Uranus|24:3
+Vengeful Spirit|31:1
+Venus|31:2
+Voodoo Head|31:2

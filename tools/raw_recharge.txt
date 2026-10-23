@@ -1,0 +1,99 @@
+Abyss|24:4
+Alabaster Box|31:12
+Anarchist Cookbook|31:3
+Anima Sola|31:15s
+Bag of Crafting|24:unlimited
+Berserk!|31:damage
+Best Friend|31:3
+Black Hole|31:4
+Blank Card|24:variable 7:4
+Bob's Rotten Head|24:2 7:3
+Book of Revelations|31:6
+Book of Secrets|31:6
+Book of Shadows|31:3
+Book of the Dead|7:4 24:6
+Book of Virtues|24:4
+Box of Friends|24:3 6:4
+Box of Spiders|31:2
+Breath of Life|24:3s 7:6s
+Clicker|31:6
+Compost|31:2
+Crystal Ball|31:6
+D1|28:4
+D10|24:2 7:1
+D100|31:6
+D12|30:3
+D20|31:6
+D4|31:6
+D7|30:3
+D8|30:4
+Dark Arts|31:6s
+Dead Sea Scrolls|31:2
+Deck of Cards|31:6
+Delirious|31:12
+Doctor's Remote|31:2
+Eden's Soul|31:12
+Esau Jr.|31:1
+Flip|31:6
+Forget Me Now|31:one time
+Fortune Cookie|31:2
+Friend Finder|24:4
+Gello|24:2
+Glass Cannon|31:4s
+Glowing Hourglass|24:unlimited 6:2
+Guppy's Head|31:1
+Guppy's Paw|31:unlimited
+Hold|31:unlimited
+How to Jump|31:unlimited
+Isaac's Tears|31:6
+Jar of Flies|30:unlimited
+Jar of Wisps|31:12
+Kidney Bean|16:4s 8:1 6:2
+Lemegeton|31:6
+Lemon Mishap|31:2
+Magic Fingers|31:unlimited
+Mama Mega!|28:one time
+Mega Bean|16:6 14:3
+Mega Blast|30:12
+Metronome|28:2
+Mom's Bottle of Pills|31:6
+Mom's Bra|31:3
+Mom's Shovel|28:4
+Monster Manual|24:6 7:3
+Monstro's Tooth|31:3
+Mr. Boom|31:2
+My Little Unicorn|7:6 24:4
+Notched Axe|24:unlimited 7:3
+Pandora's Box|31:one time
+Plan C|28:one time
+R Key|24:one time
+Red Candle|31:4s
+Red Key|31:4
+Satanic Bible|31:6
+Shoop da Whoop!|31:2
+Spider Butt|31:2
+Spindown Dice|24:6
+Sulfur|24:3
+Sumptorium|31:10s
+Tammy's Head|31:1
+Telepathy For Dummies|31:2
+Teleport!|31:2
+The Bean|15:1 16:4s
+The Bible|24:4 7:6
+The Book of Belial|31:3
+The Book of Sin|31:4
+The Boomerang|31:2s
+The Candle|31:4s
+The D6|31:6
+The Gamekid|24:4 7:6
+The Hourglass|31:2
+The Nail|31:6
+The Necronomicon|24:4 7:6
+The Pinking Shears|24:4 7:6
+The Poop|31:1
+Unicorn Stump|31:1
+Void|16:4 12:6
+We Need To Go Deeper!|31:6
+White Pony|24:2 7:6
+Wooden Nickel|30:1
+Yum Heart|31:4

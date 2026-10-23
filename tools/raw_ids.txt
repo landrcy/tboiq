@@ -1,0 +1,316 @@
+The Bible|33
+The Book of Belial|34
+The Necronomicon|35
+The Poop|36
+Mr. Boom|37
+Tammy's Head|38
+Mom's Bra|39
+Bob's Rotten Head|42
+Teleport!|44
+Yum Heart|45
+Doctor's Remote|47
+Shoop da Whoop!|49
+Lemon Mishap|56
+Book of Shadows|58
+Anarchist Cookbook|65
+The Hourglass|66
+My Little Unicorn|77
+Book of Revelations|78
+The Nail|83
+We Need To Go Deeper!|84
+Deck of Cards|85
+Monstro's Tooth|86
+The Gamekid|93
+The Book of Sin|97
+Mom's Bottle of Pills|102
+The D6|105
+The Pinking Shears|107
+The Bean|111
+Monster Manual|123
+Dead Sea Scrolls|124
+Forget Me Now|127
+Guppy's Paw|133
+Best Friend|136
+Guppy's Head|145
+Notched Axe|147
+Crystal Ball|158
+The Candle|164
+D20|166
+Spider Butt|171
+White Pony|181
+Telepathy For Dummies|192
+How to Jump|282
+D100|283
+D4|284
+D10|285
+Blank Card|286
+Book of Secrets|287
+Box of Spiders|288
+Red Candle|289
+Satanic Bible|292
+Magic Fingers|295
+Pandora's Box|297
+Unicorn Stump|298
+Isaac's Tears|323
+Breath of Life|326
+The Boomerang|338
+Wooden Nickel|349
+Mega Bean|351
+Glass Cannon|352
+Box of Friends|357
+D12|386
+D8|406
+Kidney Bean|421
+Glowing Hourglass|422
+Jar of Flies|434
+D7|437
+Mega Blast|441
+Plan C|475
+D1|476
+Void|477
+Compost|480
+Clicker|482
+Mama Mega!|483
+Metronome|488
+Eden's Soul|490
+Delirious|510
+Black Hole|512
+Book of the Dead|545
+Mom's Shovel|552
+Sulfur|556
+Fortune Cookie|557
+Red Key|580
+Book of Virtues|584
+Alabaster Box|585
+R Key|636
+Jar of Wisps|685
+Friend Finder|687
+Esau Jr.|703
+Berserk!|704
+Dark Arts|705
+Abyss|706
+Bag of Crafting|710
+Flip|711
+Lemegeton|712
+Sumptorium|713
+Hold|715
+Anima Sola|722
+Spindown Dice|723
+Gello|728
+The Sad Onion|1
+The Inner Eye|2
+Spoon Bender|3
+Cricket's Head|4
+My Reflection|5
+Number One|6
+Blood of the Martyr|7
+Brother Bobby|8
+Skatole|9
+Halo of Flies|10
+1up!|11
+Magic Mushroom|12
+Roid Rage|14
+Raw Liver|16
+Skeleton Key|17
+Transcendence|20
+The Compass|21
+Lunch|22
+Dinner|23
+Dessert|24
+Breakfast|25
+Rotten Meat|26
+Wooden Spoon|27
+The Belt|28
+Mom's Underwear|29
+Mom's Heels|30
+Mom's Lipstick|31
+Wire Coat Hanger|32
+Lucky Foot|46
+Pentagram|51
+Dr. Fetus|52
+Technology|68
+Chocolate Milk|69
+Rosary|72
+The Mark|79
+The Pact|80
+Dead Cat|81
+Super Bandage|92
+The Wafer|108
+Mom's Contacts|110
+Mom's Knife|114
+Ouija Board|115
+Dead Bird|117
+Brimstone|118
+Ipecac|149
+Mutant Spider|153
+Spirit of the Night|159
+Cat-o-nine-tails|165
+Epic Fetus|168
+Polyphemus|169
+Sacrificial Dagger|172
+Sacred Heart|182
+Holy Grail|184
+Pyromaniac|223
+Abaddon|230
+Stop Watch|232
+20/20|245
+Fire Mind|257
+Holy Mantle|313
+Godhead|331
+Incubus|360
+Tech X|395
+Maw Of The Void|399
+Crown Of Light|415
+Eye of Belial|462
+Magneto|53
+Distant Admiration|57
+Sister Maggy|67
+Lord of the Pit|82
+Sack of Pennies|94
+Little C.H.A.D.|96
+Guardian Angel|112
+Demon Baby|113
+9 Volt|116
+Forever alone|128
+A Lump of Coal|132
+Guppy's Tail|134
+Mom's Purse|139
+Bum Friend|144
+Harlequin Baby|167
+Daddy Longlegs|170
+Rainbow Baby|174
+Fate|179
+Guppy's Hairball|187
+Abel|188
+3 Dollar Bill|191
+Midas' Touch|202
+Sharp Plug|205
+Gnawed Leaf|210
+Guppy's Collar|212
+Mom's Wig|217
+Rubber Cement|221
+Cricket's Body|224
+Gimpy|225
+Piggy Bank|227
+Mom's Perfume|228
+Experimental Treatment|240
+Hive Mind|248
+Dark Matter|259
+Proptosis|261
+Headless Baby|269
+Bob's Brain|273
+Lil Brimstone|275
+Isaac's Heart|276
+Lil Haunt|277
+Dark Bum|278
+Taurus|299
+Aries|300
+Cancer|301
+Libra|304
+Pisces|309
+Eve's Mascara|310
+Cursed Eye|316
+Cain's Other Eye|319
+Soy Milk|330
+The Body|334
+Bomber Boy|353
+Lil Chest|362
+Sworn Protector|363
+Dead Eye|373
+Lil Gurdy|384
+Tractor Beam|397
+Spear Of Destiny|400
+Cambion Conception|412
+Immaculate Conception|413
+Mom's Box|439
+Dad's Lost Coin|455
+Sinus Infection|459
+Acid Baby|491
+Euthanasia|496
+Pop!|529
+Haemolacria|531
+Brittle Bones|549
+Sacred Orb|691
+2Spooky|554
+4.5 Volt|647
+A Pound of Flesh|672
+Act of Contrition|601
+Almond Milk|561
+Astral Projection|677
+Azazel's Rage|699
+Binge Eater|664
+Bird's Eye|616
+Birthright|619
+Blood Oath|569
+Blood Puppy|565
+Bone Spurs|683
+Bot Fly|629
+Brimstone Bombs|646
+Candy Heart|671
+Consolation Prize|644
+Cube Baby|652
+Dirty Mind|576
+Divine Intervention|568
+Dream Catcher|566
+Echo Chamber|700
+Eye of the Occult|572
+Eye Sore|558
+False PHD|654
+Fruity Plum|649
+Ghost Bombs|727
+Giant Cell|658
+Glass Eye|730
+Glitched Crown|689
+Guppy's Eye|665
+Hallowed Ground|543
+Heartbreak|694
+Hemoptysis|726
+Immaculate Heart|573
+Inner Child|688
+Isaac's Tomb|701
+Jumper Cables|520
+Jupiter|594
+Keeper's Sack|716
+King Baby|472
+Lil Abaddon|679
+Lil Portal|681
+Lodestone|617
+Luna|589
+Mars|593
+Member Card|602
+Mercurius|590
+Mom's Ring|732
+Monstrance|574
+Neptunus|597
+Ocular Rift|606
+Orphan Socks|571
+Paschal Candle|567
+Pluto|598
+Purgatory|634
+Quints|661
+Red Stew|621
+Revelation|643
+Rock Bottom|562
+Salvation|696
+Sanguine Bond|692
+Saturnus|595
+Sausage|669
+Schoolbag|534
+Sol|588
+Soul Locket|686
+Spirit Shackles|674
+Spirit Sword|579
+Stapler|708
+Star of Bethlehem|651
+Strawman|667
+Stye|731
+Tarot Cloth|451
+Terra|592
+The Stairway|586
+The Swarm|693
+TMTRAINER|721
+Twisted Pair|698
+Uranus|596
+Vengeful Spirit|702
+Venus|591
+Voodoo Head|599

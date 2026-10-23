@@ -1,0 +1,311 @@
+Abyss|Ultra Secret Room|Devil Room
+Alabaster Box|Shop
+Anarchist Cookbook|Library|Treasure Room
+Anima Sola|Treasure Room
+Bag of Crafting|Treasure Room
+Berserk!|Ultra Secret Room|Devil Room
+Best Friend|Crane Game|Treasure Room
+Black Hole|Treasure Room
+Blank Card|Secret Room|Shop
+Bob's Rotten Head|Rotten Beggar|Treasure Room
+Book of Revelations|Library|Treasure Room|Angel Room
+Book of Secrets|Library|Secret Room|Treasure Room
+Book of Shadows|Library|Treasure Room
+Book of the Dead|Library|Devil Room|Treasure Room
+Book of Virtues|Library|Angel Room
+Box of Friends|Crane Game|Shop
+Box of Spiders|Treasure Room
+Breath of Life|Angel Room
+Clicker|Treasure Room
+Compost|Rotten Beggar|Shop
+D1|Crane Game|Treasure Room
+D10|Crane Game|Treasure Room
+D100|Crane Game|Treasure Room
+D12|Crane Game|Treasure Room
+D20|Crane Game|Ultra Secret Room|Treasure Room
+D4|Crane Game|Treasure Room
+D7|Crane Game|Treasure Room
+D8|Crane Game|Treasure Room
+Dark Arts|Ultra Secret Room|Devil Room
+Dead Sea Scrolls|Treasure Room|Angel Room
+Deck of Cards|Crane Game|Shop|Treasure Room
+Delirious|Angel Room
+Doctor's Remote|Crane Game|Treasure Room
+Eden's Soul|Angel Room
+Esau Jr.|Secret Room|Ultra Secret Room|Treasure Room
+Flip|Curse Room|Secret Room|Ultra Secret Room
+Forget Me Now|Devil Beggar|Secret Room|Devil Room|Treasure Room
+Fortune Cookie|Treasure Room
+Friend Finder|Crane Game|Treasure Room
+Gello|Ultra Secret Room|Devil Room|Treasure Room
+Glass Cannon|Crane Game|Treasure Room
+Glowing Hourglass|Crane Game|Shop|Treasure Room
+Guppy's Head|Curse Room|Devil Room|Red Chest
+Guppy's Paw|Curse Room|Devil Room|Red Chest
+How to Jump|Library|Treasure Room
+Isaac's Tears|Treasure Room
+Jar of Flies|Shop
+Jar of Wisps|Angel Room
+Kidney Bean|Ultra Secret Room|Treasure Room
+Lemegeton|Library|Devil Room
+Lemon Mishap|Treasure Room
+Magic Fingers|Shop|Treasure Room
+Mama Mega!|Shop|Bomb Bum
+Mega Bean|Treasure Room
+Mega Blast|Devil Room
+Metronome|Crane Game|Wooden Chest|Treasure Room
+Mom's Bottle of Pills|Devil Beggar|Crane Game|Mom's Chest|Old Chest|Shop|Treasure Room|Beggar
+Mom's Bra|Mom's Chest|Old Chest|Treasure Room
+Monster Manual|Library|Devil Room|Treasure Room
+Monstro's Tooth|Treasure Room
+Mr. Boom|Bomb Bum|Treasure Room
+My Little Unicorn|Crane Game|Treasure Room
+Notched Axe|Crane Game|Shop
+Pandora's Box|Shop|Red Chest
+Plan C|Curse Room|Devil Beggar|Ultra Secret Room|Shop|Devil Room|Red Chest
+R Key|Secret Room
+Red Candle|Ultra Secret Room|Shop
+Red Key|Curse Room|Key Master|Mom's Chest|Secret Room|Ultra Secret Room|Red Chest
+Satanic Bible|Library|Devil Room|Treasure Room
+Shoop da Whoop!|Crane Game|Ultra Secret Room|Treasure Room
+Spider Butt|Treasure Room
+Spindown Dice|Crane Game|Secret Room|Treasure Room
+Sulfur|Ultra Secret Room|Devil Room
+Sumptorium|Treasure Room
+Tammy's Head|Crane Game|Treasure Room
+Telepathy For Dummies|Library|Treasure Room
+Teleport!|Crane Game|Treasure Room
+The Bean|Treasure Room|Beggar
+The Bible|Library|Shop|Angel Room
+The Book of Belial|Library|Devil Room
+The Book of Sin|Library|Devil Room|Treasure Room
+The Boomerang|Crane Game|Shop
+The Candle|Shop
+The D6|Crane Game|Ultra Secret Room|Treasure Room
+The Gamekid|Crane Game|Treasure Room
+The Hourglass|Crane Game|Treasure Room
+The Nail|Devil Beggar|Devil Room
+The Necronomicon|Library|Secret Room|Devil Room
+The Pinking Shears|Treasure Room
+The Poop|Shell Game|Treasure Room
+Unicorn Stump|Treasure Room
+Void|Devil Room|Angel Room
+We Need To Go Deeper!|Secret Room|Devil Room
+Wooden Nickel|Wooden Chest|Shop
+Yum Heart|Ultra Secret Room|Treasure Room
+1up!|Secret Room
+20/20|Treasure Room
+Abaddon|Devil Beggar|Ultra Secret Room|Devil Room
+Blood of the Martyr|Wooden Chest|Treasure Room|Angel Room
+Breakfast|Boss|Beggar
+Brimstone|Ultra Secret Room|Devil Room
+Brother Bobby|Baby Shop|Devil Room|Treasure Room
+Cat-o-nine-tails|Boss
+Chocolate Milk|Treasure Room
+Cricket's Head|Crane Game|Treasure Room
+Crown Of Light|Angel Room
+Dead Bird|Baby Shop|Treasure Room
+Dead Cat|Curse Room|Devil Room|Red Chest
+Dessert|Boss|Beggar
+Dinner|Boss|Beggar
+Dr. Fetus|Treasure Room
+Epic Fetus|Secret Room|Treasure Room
+Eye of Belial|Ultra Secret Room|Devil Room
+Fire Mind|Treasure Room
+Godhead|Angel Room
+Halo of Flies|Key Master|Baby Shop|Treasure Room
+Holy Grail|Angel Room
+Holy Mantle|Treasure Room|Angel Room
+Incubus|Baby Shop|Devil Room
+Ipecac|Treasure Room
+Lucky Foot|Crane Game|Treasure Room|Beggar
+Lunch|Boss|Beggar
+Magic Mushroom|Ultra Secret Room|Treasure Room
+Maw Of The Void|Ultra Secret Room|Devil Room
+Mom's Contacts|Mom's Chest|Old Chest|Ultra Secret Room|Treasure Room
+Mom's Heels|Mom's Chest|Old Chest|Ultra Secret Room|Boss
+Mom's Knife|Mom's Chest|Old Chest|Devil Room|Treasure Room
+Mom's Lipstick|Mom's Chest|Old Chest|Ultra Secret Room|Boss
+Mom's Underwear|Mom's Chest|Old Chest|Golden Chest|Boss
+Mutant Spider|Crane Game|Treasure Room
+My Reflection|Crane Game|Treasure Room
+Number One|Treasure Room
+Ouija Board|Devil Room|Treasure Room
+Pentagram|Curse Room|Devil Beggar|Crane Game|Ultra Secret Room|Devil Room|Boss
+Polyphemus|Treasure Room
+Pyromaniac|Treasure Room
+Raw Liver|Secret Room
+Roid Rage|Devil Beggar|Treasure Room|Boss
+Rosary|Ultra Secret Room|Treasure Room|Angel Room
+Rotten Meat|Rotten Beggar|Boss|Beggar
+Sacred Heart|Ultra Secret Room|Angel Room
+Sacrificial Dagger|Baby Shop|Devil Room|Treasure Room
+Skatole|Shell Game
+Skeleton Key|Secret Room|Treasure Room
+Spirit of the Night|Devil Beggar|Ultra Secret Room|Devil Room
+Spoon Bender|Crane Game|Treasure Room
+Stop Watch|Crane Game|Shop
+Super Bandage|Treasure Room|Boss
+Tech X|Crane Game|Treasure Room
+Technology|Crane Game|Treasure Room
+The Belt|Golden Chest|Boss
+The Compass|Crane Game|Shop|Beggar
+The Inner Eye|Treasure Room
+The Mark|Curse Room|Devil Beggar|Ultra Secret Room|Devil Room
+The Pact|Curse Room|Devil Beggar|Ultra Secret Room|Devil Room
+The Sad Onion|Crane Game|Treasure Room
+The Wafer|Treasure Room|Angel Room
+Transcendence|Secret Room
+Wire Coat Hanger|Crane Game|Golden Chest|Boss
+Wooden Spoon|Wooden Chest|Boss
+3 Dollar Bill|Treasure Room
+9 Volt|Battery Bum|Crane Game|Shop
+Abel|Baby Shop|Treasure Room
+Acid Baby|Baby Shop|Treasure Room
+Aries|Treasure Room
+Bob's Brain|Rotten Beggar|Baby Shop|Treasure Room
+Bomber Boy|Bomb Bum|Treasure Room
+Brittle Bones|Treasure Room
+Bum Friend|Baby Shop|Treasure Room|Beggar
+Cain's Other Eye|Treasure Room
+Cambion Conception|Ultra Secret Room|Devil Room
+Cancer|Treasure Room
+Cricket's Body|Treasure Room
+Cursed Eye|Secret Room|Treasure Room|Red Chest
+Dad's Lost Coin|Old Chest|Golden Chest|Boss|Beggar
+Daddy Longlegs|Baby Shop|Treasure Room
+Dark Bum|Devil Beggar|Baby Shop|Devil Room|Treasure Room
+Dark Matter|Devil Beggar|Devil Room
+Dead Eye|Ultra Secret Room|Treasure Room
+Demon Baby|Baby Shop|Devil Room|Treasure Room
+Distant Admiration|Key Master|Baby Shop|Treasure Room
+Euthanasia|Curse Room|Devil Beggar|Treasure Room
+Eve's Mascara|Treasure Room
+Experimental Treatment|Devil Beggar|Treasure Room|Boss
+Fate|Golden Chest
+Forever alone|Key Master|Baby Shop|Treasure Room
+Gimpy|Curse Room|Devil Beggar|Devil Room|Treasure Room
+Gnawed Leaf|Treasure Room
+Guardian Angel|Baby Shop|Angel Room
+Guppy's Collar|Curse Room|Crane Game|Devil Room|Red Chest
+Guppy's Hairball|Devil Room
+Guppy's Tail|Curse Room|Devil Room|Red Chest
+Haemolacria|Ultra Secret Room|Treasure Room
+Harlequin Baby|Ultra Secret Room|Baby Shop|Treasure Room
+Headless Baby|Baby Shop|Devil Room|Treasure Room
+Hive Mind|Shop
+Immaculate Conception|Angel Room
+Isaac's Heart|Ultra Secret Room|Treasure Room
+Libra|Treasure Room
+Lil Brimstone|Baby Shop|Devil Room|Treasure Room
+Lil Chest|Crane Game|Wooden Chest|Treasure Room|Beggar
+Lil Gurdy|Baby Shop|Treasure Room
+Lil Haunt|Baby Shop|Treasure Room
+Little C.H.A.D.|Ultra Secret Room|Baby Shop|Treasure Room
+Lord of the Pit|Devil Beggar|Ultra Secret Room|Devil Room
+Magneto|Ultra Secret Room|Treasure Room
+Midas' Touch|Treasure Room
+Mom's Box|Crane Game|Mom's Chest|Old Chest|Wooden Chest|Shop
+Mom's Perfume|Mom's Chest|Old Chest|Treasure Room
+Mom's Purse|Mom's Chest|Old Chest|Shop
+Mom's Wig|Mom's Chest|Old Chest|Treasure Room
+Piggy Bank|Crane Game|Shop|Treasure Room
+Pisces|Treasure Room
+Pop!|Treasure Room
+Proptosis|Ultra Secret Room|Treasure Room
+Rainbow Baby|Baby Shop|Treasure Room
+Rubber Cement|Treasure Room
+Sack of Pennies|Treasure Room
+Sacred Orb|Secret Room|Angel Room
+Sharp Plug|Battery Bum|Shop
+Sinus Infection|Treasure Room
+Sister Maggy|Ultra Secret Room|Baby Shop|Devil Room|Treasure Room
+Soy Milk|Treasure Room
+Spear Of Destiny|Angel Room
+Sworn Protector|Baby Shop|Angel Room
+Taurus|Treasure Room
+The Body|Ultra Secret Room|Treasure Room|Angel Room
+Tractor Beam|Crane Game|Treasure Room
+2Spooky|Ultra Secret Room|Devil Room
+4.5 Volt|Battery Bum|Shop
+A Pound of Flesh|Devil Beggar|Devil Room
+Act of Contrition|Angel Room
+Almond Milk|Treasure Room
+Astral Projection|Secret Room|Treasure Room
+Azazel's Rage|Devil Room
+Binge Eater|Secret Room
+Bird's Eye|Ultra Secret Room|Treasure Room
+Birthright|Shop
+Blood Oath|Curse Room|Devil Room
+Blood Puppy|Curse Room|Ultra Secret Room|Treasure Room|Red Chest
+Bone Spurs|Treasure Room
+Bot Fly|Crane Game|Key Master|Baby Shop|Treasure Room
+Brimstone Bombs|Bomb Bum|Devil Room
+Candy Heart|Ultra Secret Room|Treasure Room
+Consolation Prize|Crane Game|Golden Chest|Boss
+Cube Baby|Treasure Room
+Dirty Mind|Shell Game|Treasure Room
+Divine Intervention|Angel Room
+Dream Catcher|Shop
+Echo Chamber|Secret Room|Ultra Secret Room
+Eye of the Occult|Ultra Secret Room|Devil Room
+Eye Sore|Treasure Room
+False PHD|Curse Room|Ultra Secret Room|Devil Room|Red Chest
+Fruity Plum|Crane Game|Key Master|Baby Shop|Treasure Room
+Ghost Bombs|Bomb Bum|Treasure Room
+Giant Cell|Treasure Room
+Glass Eye|Crane Game|Golden Chest|Boss
+Glitched Crown|Secret Room
+Guppy's Eye|Curse Room|Devil Room|Red Chest
+Hallowed Ground|Treasure Room|Angel Room
+Heartbreak|Curse Room|Ultra Secret Room|Devil Room
+Hemoptysis|Ultra Secret Room|Treasure Room
+Immaculate Heart|Ultra Secret Room|Angel Room
+Inner Child|Secret Room
+Isaac's Tomb|Secret Room
+Jumper Cables|Battery Bum|Shop
+Jupiter|Planetarium
+Keeper's Sack|Secret Room|Shop
+King Baby|Baby Shop|Shop
+Lil Abaddon|Baby Shop|Devil Room
+Lil Portal|Treasure Room
+Lodestone|Crane Game|Treasure Room
+Luna|Planetarium
+Mars|Planetarium
+Member Card|Shop
+Mercurius|Planetarium
+Mom's Ring|Mom's Chest|Old Chest|Golden Chest
+Monstrance|Angel Room
+Neptunus|Planetarium
+Ocular Rift|Ultra Secret Room|Devil Room
+Orphan Socks|Secret Room|Golden Chest
+Paschal Candle|Angel Room
+Pluto|Planetarium
+Purgatory|Devil Room|Angel Room
+Quints|Baby Shop|Treasure Room
+Red Stew|Ultra Secret Room|Shop
+Revelation|Angel Room
+Rock Bottom|Secret Room
+Salvation|Angel Room
+Sanguine Bond|Curse Room|Ultra Secret Room|Devil Room
+Saturnus|Planetarium
+Sausage|Secret Room
+Schoolbag|Shop|Golden Chest
+Sol|Planetarium
+Soul Locket|Angel Room
+Spirit Shackles|Secret Room
+Spirit Sword|Angel Room
+Stapler|Golden Chest|Boss
+Star of Bethlehem|Angel Room
+Strawman|Secret Room
+Stye|Boss
+Tarot Cloth|Curse Room|Crane Game|Shop
+Terra|Planetarium
+The Stairway|Angel Room
+The Swarm|Key Master|Treasure Room
+TMTRAINER|Secret Room
+Twisted Pair|Baby Shop|Devil Room
+Uranus|Planetarium
+Vengeful Spirit|Curse Room|Ultra Secret Room|Devil Room
+Venus|Planetarium
+Voodoo Head|Crane Game|Shop
